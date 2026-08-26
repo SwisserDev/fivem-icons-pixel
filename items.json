@@ -1,0 +1,5086 @@
+{
+  "name": "FiveM Inventory Icons — Pixel Art",
+  "game": "FiveM",
+  "style": "pixel",
+  "styleLabel": "Pixel Art",
+  "version": "1.0",
+  "license": "CC0-1.0",
+  "iconCount": 1235,
+  "categories": {
+    "food": {
+      "label": "Food",
+      "items": [
+        {
+          "file": "bread",
+          "label": "Bread"
+        },
+        {
+          "file": "sandwich",
+          "label": "Sandwich"
+        },
+        {
+          "file": "tosti",
+          "label": "Grilled Cheese Sandwich"
+        },
+        {
+          "file": "burger",
+          "label": "Burger"
+        },
+        {
+          "file": "hotdog",
+          "label": "Hot Dog"
+        },
+        {
+          "file": "pizza_slice",
+          "label": "Pizza Slice"
+        },
+        {
+          "file": "taco",
+          "label": "Taco"
+        },
+        {
+          "file": "burrito",
+          "label": "Burrito"
+        },
+        {
+          "file": "donut",
+          "label": "Donut"
+        },
+        {
+          "file": "cookies",
+          "label": "Cookies"
+        },
+        {
+          "file": "chocolate_bar",
+          "label": "Chocolate Bar"
+        },
+        {
+          "file": "candy",
+          "label": "Candy"
+        },
+        {
+          "file": "chips_bag",
+          "label": "Bag of Chips"
+        },
+        {
+          "file": "apple",
+          "label": "Apple"
+        },
+        {
+          "file": "banana",
+          "label": "Banana"
+        },
+        {
+          "file": "grape",
+          "label": "Grapes"
+        },
+        {
+          "file": "orange",
+          "label": "Orange"
+        },
+        {
+          "file": "strawberry",
+          "label": "Strawberry"
+        },
+        {
+          "file": "corn",
+          "label": "Corn"
+        },
+        {
+          "file": "tomato",
+          "label": "Tomato"
+        },
+        {
+          "file": "cooked_fish",
+          "label": "Cooked Fish"
+        },
+        {
+          "file": "steak",
+          "label": "Steak"
+        },
+        {
+          "file": "pizza_box",
+          "label": "Pizza Box"
+        },
+        {
+          "file": "chicken_wings",
+          "label": "Chicken Wings"
+        },
+        {
+          "file": "grilled_chicken_breast",
+          "label": "Grilled Chicken Breast"
+        },
+        {
+          "file": "chicken_nuggets",
+          "label": "Chicken Nuggets"
+        },
+        {
+          "file": "bacon",
+          "label": "Bacon"
+        },
+        {
+          "file": "egg",
+          "label": "Egg"
+        },
+        {
+          "file": "fried_egg",
+          "label": "Fried Egg"
+        },
+        {
+          "file": "cheese_wheel",
+          "label": "Cheese Wheel"
+        },
+        {
+          "file": "salad_bowl",
+          "label": "Salad Bowl"
+        },
+        {
+          "file": "soup_bowl",
+          "label": "Soup Bowl"
+        },
+        {
+          "file": "stew_pot",
+          "label": "Stew Pot"
+        },
+        {
+          "file": "noodle_bowl",
+          "label": "Noodle Bowl"
+        },
+        {
+          "file": "rice_bowl",
+          "label": "Rice Bowl"
+        },
+        {
+          "file": "pasta_plate",
+          "label": "Pasta"
+        },
+        {
+          "file": "mashed_potatoes",
+          "label": "Mashed Potatoes"
+        },
+        {
+          "file": "fries",
+          "label": "French Fries"
+        },
+        {
+          "file": "onion_rings",
+          "label": "Onion Rings"
+        },
+        {
+          "file": "nachos",
+          "label": "Nachos"
+        },
+        {
+          "file": "popcorn",
+          "label": "Popcorn"
+        },
+        {
+          "file": "pretzel",
+          "label": "Pretzel"
+        },
+        {
+          "file": "muffin",
+          "label": "Muffin"
+        },
+        {
+          "file": "waffle",
+          "label": "Waffle"
+        },
+        {
+          "file": "pancakes",
+          "label": "Pancakes"
+        },
+        {
+          "file": "croissant",
+          "label": "Croissant"
+        },
+        {
+          "file": "bagel",
+          "label": "Bagel"
+        },
+        {
+          "file": "cinnamon_roll",
+          "label": "Cinnamon Roll"
+        },
+        {
+          "file": "cupcake",
+          "label": "Cupcake"
+        },
+        {
+          "file": "cheesecake",
+          "label": "Cheesecake"
+        },
+        {
+          "file": "pie_slice",
+          "label": "Apple Pie Slice"
+        },
+        {
+          "file": "ice_cream_cone",
+          "label": "Ice Cream Cone"
+        },
+        {
+          "file": "ice_cream_tub",
+          "label": "Ice Cream Tub"
+        },
+        {
+          "file": "popsicle",
+          "label": "Popsicle"
+        },
+        {
+          "file": "gummy_bears",
+          "label": "Gummy Bears"
+        },
+        {
+          "file": "marshmallows",
+          "label": "Marshmallows"
+        },
+        {
+          "file": "peanuts",
+          "label": "Peanuts"
+        },
+        {
+          "file": "trail_mix",
+          "label": "Trail Mix"
+        },
+        {
+          "file": "beef_jerky",
+          "label": "Beef Jerky"
+        },
+        {
+          "file": "protein_bar",
+          "label": "Protein Bar"
+        },
+        {
+          "file": "granola_bar",
+          "label": "Granola Bar"
+        },
+        {
+          "file": "crackers",
+          "label": "Crackers"
+        },
+        {
+          "file": "watermelon_slice",
+          "label": "Watermelon Slice"
+        },
+        {
+          "file": "pineapple",
+          "label": "Pineapple"
+        },
+        {
+          "file": "mango",
+          "label": "Mango"
+        },
+        {
+          "file": "peach",
+          "label": "Peach"
+        },
+        {
+          "file": "pear",
+          "label": "Pear"
+        },
+        {
+          "file": "lemon",
+          "label": "Lemon"
+        },
+        {
+          "file": "lime",
+          "label": "Lime"
+        },
+        {
+          "file": "kiwi",
+          "label": "Kiwi"
+        },
+        {
+          "file": "blueberries",
+          "label": "Blueberries"
+        },
+        {
+          "file": "raspberries",
+          "label": "Raspberries"
+        },
+        {
+          "file": "cherries",
+          "label": "Cherries"
+        },
+        {
+          "file": "plum",
+          "label": "Plum"
+        },
+        {
+          "file": "coconut",
+          "label": "Coconut"
+        },
+        {
+          "file": "cabbage",
+          "label": "Cabbage"
+        },
+        {
+          "file": "lettuce_head",
+          "label": "Lettuce"
+        },
+        {
+          "file": "cucumber",
+          "label": "Cucumber"
+        },
+        {
+          "file": "carrot",
+          "label": "Carrot"
+        },
+        {
+          "file": "potato",
+          "label": "Potato"
+        },
+        {
+          "file": "onion",
+          "label": "Onion"
+        },
+        {
+          "file": "garlic_bulb",
+          "label": "Garlic"
+        },
+        {
+          "file": "mushroom",
+          "label": "Mushroom"
+        },
+        {
+          "file": "bell_pepper",
+          "label": "Bell Pepper"
+        },
+        {
+          "file": "broccoli",
+          "label": "Broccoli"
+        },
+        {
+          "file": "avocado",
+          "label": "Avocado"
+        },
+        {
+          "file": "eggplant",
+          "label": "Eggplant"
+        },
+        {
+          "file": "zucchini",
+          "label": "Zucchini"
+        },
+        {
+          "file": "spinach_bunch",
+          "label": "Spinach"
+        },
+        {
+          "file": "green_beans",
+          "label": "Green Beans"
+        },
+        {
+          "file": "peas_pod",
+          "label": "Peas"
+        },
+        {
+          "file": "radish",
+          "label": "Radish"
+        },
+        {
+          "file": "raw_meat",
+          "label": "Raw Meat"
+        },
+        {
+          "file": "deer_meat",
+          "label": "Venison"
+        },
+        {
+          "file": "raw_fish",
+          "label": "Raw Fish"
+        },
+        {
+          "file": "dog_food",
+          "label": "Dog Food"
+        },
+        {
+          "file": "cat_food",
+          "label": "Cat Food"
+        },
+        {
+          "file": "fortune_cookie",
+          "label": "Fortune Cookie"
+        },
+        {
+          "file": "churro",
+          "label": "Churro"
+        },
+        {
+          "file": "flatbread",
+          "label": "Flatbread"
+        }
+      ]
+    },
+    "drink": {
+      "label": "Drink",
+      "items": [
+        {
+          "file": "water_bottle",
+          "label": "Bottle of Water"
+        },
+        {
+          "file": "coffee",
+          "label": "Coffee"
+        },
+        {
+          "file": "kurkakola",
+          "label": "Cola"
+        },
+        {
+          "file": "sprunk",
+          "label": "Sprunk"
+        },
+        {
+          "file": "energy_drink",
+          "label": "Energy Drink"
+        },
+        {
+          "file": "grapejuice",
+          "label": "Grape Juice"
+        },
+        {
+          "file": "milkshake",
+          "label": "Milkshake"
+        },
+        {
+          "file": "tea_cup",
+          "label": "Tea"
+        },
+        {
+          "file": "juice_carton",
+          "label": "Juice Carton"
+        },
+        {
+          "file": "milk_carton",
+          "label": "Milk"
+        },
+        {
+          "file": "soda_bottle",
+          "label": "Soda Bottle"
+        },
+        {
+          "file": "empty_bottle",
+          "label": "Empty Bottle"
+        },
+        {
+          "file": "ice_cubes",
+          "label": "Ice Cubes"
+        },
+        {
+          "file": "coconut_water",
+          "label": "Coconut Water"
+        },
+        {
+          "file": "hot_chocolate",
+          "label": "Hot Chocolate"
+        },
+        {
+          "file": "lemonade",
+          "label": "Lemonade"
+        },
+        {
+          "file": "iced_tea",
+          "label": "Iced Tea"
+        },
+        {
+          "file": "latte",
+          "label": "Latte"
+        },
+        {
+          "file": "espresso_shot",
+          "label": "Espresso"
+        },
+        {
+          "file": "cappuccino",
+          "label": "Cappuccino"
+        },
+        {
+          "file": "cold_brew_coffee",
+          "label": "Cold Brew Coffee"
+        },
+        {
+          "file": "energy_shot",
+          "label": "Energy Shot"
+        },
+        {
+          "file": "root_beer_bottle",
+          "label": "Root Beer"
+        },
+        {
+          "file": "ginger_ale",
+          "label": "Ginger Ale"
+        },
+        {
+          "file": "tonic_water",
+          "label": "Tonic Water"
+        },
+        {
+          "file": "apple_juice_bottle",
+          "label": "Apple Juice"
+        },
+        {
+          "file": "kombucha_bottle",
+          "label": "Kombucha"
+        },
+        {
+          "file": "protein_shake",
+          "label": "Protein Shake"
+        },
+        {
+          "file": "smoothie_cup",
+          "label": "Smoothie"
+        },
+        {
+          "file": "bubble_tea",
+          "label": "Bubble Tea"
+        },
+        {
+          "file": "slushie",
+          "label": "Slushie"
+        },
+        {
+          "file": "thermos_flask",
+          "label": "Thermos"
+        },
+        {
+          "file": "canteen",
+          "label": "Canteen"
+        },
+        {
+          "file": "sports_drink_bottle",
+          "label": "Sports Drink"
+        },
+        {
+          "file": "chocolate_milk",
+          "label": "Chocolate Milk"
+        },
+        {
+          "file": "egg_nog",
+          "label": "Eggnog"
+        },
+        {
+          "file": "coffee_pot",
+          "label": "Coffee Pot"
+        },
+        {
+          "file": "mineral_water_bottle",
+          "label": "Sparkling Water"
+        },
+        {
+          "file": "milk_jug",
+          "label": "Milk Jug"
+        },
+        {
+          "file": "juice_pouch",
+          "label": "Juice Pouch"
+        },
+        {
+          "file": "chai_tea",
+          "label": "Chai Tea"
+        },
+        {
+          "file": "yogurt_drink",
+          "label": "Yogurt Drink"
+        },
+        {
+          "file": "virgin_cocktail",
+          "label": "Virgin Cocktail"
+        },
+        {
+          "file": "milk_bottle_glass",
+          "label": "Glass Milk Bottle"
+        },
+        {
+          "file": "rice_milk",
+          "label": "Rice Milk"
+        },
+        {
+          "file": "pumpkin_spice_latte",
+          "label": "Pumpkin Spice Latte"
+        },
+        {
+          "file": "iced_coffee",
+          "label": "Iced Coffee"
+        },
+        {
+          "file": "warm_cider",
+          "label": "Warm Cider"
+        },
+        {
+          "file": "fruit_punch_bowl",
+          "label": "Fruit Punch"
+        },
+        {
+          "file": "herbal_infusion",
+          "label": "Herbal Tea"
+        }
+      ]
+    },
+    "alcohol": {
+      "label": "Alcohol",
+      "items": [
+        {
+          "file": "beer",
+          "label": "Beer"
+        },
+        {
+          "file": "whiskey",
+          "label": "Whiskey"
+        },
+        {
+          "file": "vodka",
+          "label": "Vodka"
+        },
+        {
+          "file": "wine",
+          "label": "Wine"
+        },
+        {
+          "file": "moonshine",
+          "label": "Moonshine"
+        },
+        {
+          "file": "rum",
+          "label": "Rum"
+        },
+        {
+          "file": "tequila",
+          "label": "Tequila"
+        },
+        {
+          "file": "gin",
+          "label": "Gin"
+        },
+        {
+          "file": "champagne",
+          "label": "Champagne"
+        },
+        {
+          "file": "cognac",
+          "label": "Cognac"
+        },
+        {
+          "file": "absinthe",
+          "label": "Absinthe"
+        },
+        {
+          "file": "brandy",
+          "label": "Brandy"
+        },
+        {
+          "file": "sake",
+          "label": "Sake"
+        },
+        {
+          "file": "mead",
+          "label": "Mead"
+        },
+        {
+          "file": "cider_bottle",
+          "label": "Cider"
+        },
+        {
+          "file": "hard_seltzer",
+          "label": "Hard Seltzer"
+        },
+        {
+          "file": "malt_liquor",
+          "label": "Malt Liquor"
+        },
+        {
+          "file": "craft_ale",
+          "label": "Craft Ale"
+        },
+        {
+          "file": "stout_beer",
+          "label": "Stout Beer"
+        },
+        {
+          "file": "wine_box",
+          "label": "Boxed Wine"
+        },
+        {
+          "file": "keg",
+          "label": "Beer Keg"
+        },
+        {
+          "file": "flask_hip",
+          "label": "Hip Flask"
+        },
+        {
+          "file": "shot_glass",
+          "label": "Shot Glass"
+        },
+        {
+          "file": "wine_glass",
+          "label": "Glass of Wine"
+        },
+        {
+          "file": "beer_mug",
+          "label": "Beer Mug"
+        },
+        {
+          "file": "margarita_glass",
+          "label": "Margarita"
+        },
+        {
+          "file": "pina_colada",
+          "label": "Pina Colada"
+        },
+        {
+          "file": "martini_glass",
+          "label": "Martini"
+        },
+        {
+          "file": "whiskey_barrel_mini",
+          "label": "Mini Whiskey Barrel"
+        },
+        {
+          "file": "herbal_liqueur",
+          "label": "Herbal Liqueur"
+        },
+        {
+          "file": "vermouth",
+          "label": "Vermouth"
+        },
+        {
+          "file": "bourbon",
+          "label": "Bourbon"
+        },
+        {
+          "file": "schnapps",
+          "label": "Schnapps"
+        },
+        {
+          "file": "moonshine_jug",
+          "label": "Moonshine Jug"
+        },
+        {
+          "file": "beer_case",
+          "label": "Case of Beer"
+        },
+        {
+          "file": "cocktail_shaker",
+          "label": "Cocktail Shaker"
+        },
+        {
+          "file": "sangria_pitcher",
+          "label": "Sangria"
+        },
+        {
+          "file": "beer_growler",
+          "label": "Beer Growler"
+        }
+      ]
+    },
+    "medical": {
+      "label": "Medical",
+      "items": [
+        {
+          "file": "bandage",
+          "label": "Bandage"
+        },
+        {
+          "file": "firstaid",
+          "label": "First Aid Kit"
+        },
+        {
+          "file": "medkit",
+          "label": "Medkit"
+        },
+        {
+          "file": "ifaks",
+          "label": "IFAK"
+        },
+        {
+          "file": "painkillers",
+          "label": "Painkillers"
+        },
+        {
+          "file": "morphine",
+          "label": "Morphine"
+        },
+        {
+          "file": "adrenaline_shot",
+          "label": "Adrenaline Shot"
+        },
+        {
+          "file": "blood_bag",
+          "label": "Blood Bag"
+        },
+        {
+          "file": "splint",
+          "label": "Splint"
+        },
+        {
+          "file": "gauze",
+          "label": "Gauze"
+        },
+        {
+          "file": "defibrillator",
+          "label": "Defibrillator"
+        },
+        {
+          "file": "stethoscope",
+          "label": "Stethoscope"
+        },
+        {
+          "file": "oxygen_mask",
+          "label": "Oxygen Mask"
+        },
+        {
+          "file": "tourniquet",
+          "label": "Tourniquet"
+        },
+        {
+          "file": "syringe",
+          "label": "Syringe"
+        },
+        {
+          "file": "medical_report",
+          "label": "Medical Report"
+        },
+        {
+          "file": "antiseptic_wipes",
+          "label": "Antiseptic Wipe"
+        },
+        {
+          "file": "rubbing_alcohol",
+          "label": "Rubbing Alcohol"
+        },
+        {
+          "file": "iodine_swab",
+          "label": "Iodine Swab"
+        },
+        {
+          "file": "surgical_gloves",
+          "label": "Surgical Gloves"
+        },
+        {
+          "file": "surgical_mask",
+          "label": "Surgical Mask"
+        },
+        {
+          "file": "thermometer",
+          "label": "Thermometer"
+        },
+        {
+          "file": "crutches",
+          "label": "Crutches"
+        },
+        {
+          "file": "wheelchair",
+          "label": "Wheelchair"
+        },
+        {
+          "file": "neck_brace",
+          "label": "Neck Brace"
+        },
+        {
+          "file": "arm_sling",
+          "label": "Arm Sling"
+        },
+        {
+          "file": "eye_patch",
+          "label": "Eye Patch"
+        },
+        {
+          "file": "plaster_cast_roll",
+          "label": "Plaster Cast Roll"
+        },
+        {
+          "file": "suture_kit",
+          "label": "Suture Kit"
+        },
+        {
+          "file": "scalpel",
+          "label": "Scalpel"
+        },
+        {
+          "file": "forceps",
+          "label": "Forceps"
+        },
+        {
+          "file": "insulin_pen",
+          "label": "Insulin Pen"
+        },
+        {
+          "file": "iv_saline_bag",
+          "label": "IV Saline Bag"
+        },
+        {
+          "file": "hospital_gown",
+          "label": "Hospital Gown"
+        },
+        {
+          "file": "antibiotic_pills",
+          "label": "Antibiotic Pills"
+        },
+        {
+          "file": "cough_syrup",
+          "label": "Cough Syrup"
+        },
+        {
+          "file": "nasal_spray",
+          "label": "Nasal Spray"
+        },
+        {
+          "file": "eye_drops",
+          "label": "Eye Drops"
+        },
+        {
+          "file": "burn_gel",
+          "label": "Burn Gel"
+        },
+        {
+          "file": "ice_pack",
+          "label": "Ice Pack"
+        },
+        {
+          "file": "heating_pad",
+          "label": "Heating Pad"
+        },
+        {
+          "file": "medical_scissors",
+          "label": "Trauma Shears"
+        },
+        {
+          "file": "x_ray_film",
+          "label": "X-Ray Film"
+        },
+        {
+          "file": "hospital_id_bracelet",
+          "label": "Hospital Wristband"
+        },
+        {
+          "file": "antivenom_vial",
+          "label": "Antivenom Vial"
+        },
+        {
+          "file": "smelling_salts",
+          "label": "Smelling Salts"
+        },
+        {
+          "file": "dental_kit",
+          "label": "Dental Kit"
+        },
+        {
+          "file": "rehydration_salts",
+          "label": "Rehydration Salts"
+        },
+        {
+          "file": "overdose_reversal_spray",
+          "label": "Overdose Reversal Spray"
+        },
+        {
+          "file": "medical_tape",
+          "label": "Medical Tape"
+        },
+        {
+          "file": "cotton_balls",
+          "label": "Cotton Balls"
+        },
+        {
+          "file": "reflex_hammer",
+          "label": "Reflex Hammer"
+        },
+        {
+          "file": "paramedic_bag",
+          "label": "Paramedic Bag"
+        },
+        {
+          "file": "hand_sanitizer",
+          "label": "Hand Sanitizer"
+        }
+      ]
+    },
+    "drugs": {
+      "label": "Drugs",
+      "items": [
+        {
+          "file": "joint",
+          "label": "Joint"
+        },
+        {
+          "file": "weed_bud",
+          "label": "Weed Bud"
+        },
+        {
+          "file": "weed_brick",
+          "label": "Weed Brick"
+        },
+        {
+          "file": "empty_weed_bag",
+          "label": "Empty Weed Bag"
+        },
+        {
+          "file": "weed_seed",
+          "label": "Weed Seed"
+        },
+        {
+          "file": "weed_nutrition",
+          "label": "Plant Fertilizer"
+        },
+        {
+          "file": "cokebaggy",
+          "label": "Bag of Coke"
+        },
+        {
+          "file": "coke_brick",
+          "label": "Coke Brick"
+        },
+        {
+          "file": "coke_small_brick",
+          "label": "Coke Package"
+        },
+        {
+          "file": "cocaineleaf",
+          "label": "Coca Leaves"
+        },
+        {
+          "file": "crack_baggy",
+          "label": "Bag of Crack"
+        },
+        {
+          "file": "meth",
+          "label": "Meth"
+        },
+        {
+          "file": "meth_bag",
+          "label": "Bag of Meth"
+        },
+        {
+          "file": "xtcbaggy",
+          "label": "Bag of XTC"
+        },
+        {
+          "file": "oxy",
+          "label": "Prescription Oxy"
+        },
+        {
+          "file": "acetone",
+          "label": "Acetone"
+        },
+        {
+          "file": "baking_soda",
+          "label": "Baking Soda"
+        },
+        {
+          "file": "purple_haze_bud",
+          "label": "Purple Haze Bud"
+        },
+        {
+          "file": "blunt",
+          "label": "Blunt"
+        },
+        {
+          "file": "bong",
+          "label": "Bong"
+        },
+        {
+          "file": "dab_rig",
+          "label": "Dab Rig"
+        },
+        {
+          "file": "hash_block",
+          "label": "Hash Block"
+        },
+        {
+          "file": "shatter_slab",
+          "label": "Shatter"
+        },
+        {
+          "file": "edibles_gummies",
+          "label": "Cannabis Gummies"
+        },
+        {
+          "file": "lsd_tabs",
+          "label": "LSD Tabs"
+        },
+        {
+          "file": "mushroom_dried",
+          "label": "Dried Mushrooms"
+        },
+        {
+          "file": "heroin_baggy",
+          "label": "Bag of Heroin"
+        },
+        {
+          "file": "heroin_balloon",
+          "label": "Heroin Balloon"
+        },
+        {
+          "file": "fentanyl_patch",
+          "label": "Fentanyl Patch"
+        },
+        {
+          "file": "ketamine_bag",
+          "label": "Bag of Ketamine"
+        },
+        {
+          "file": "molly_capsules",
+          "label": "Molly Capsules"
+        },
+        {
+          "file": "crack_pipe",
+          "label": "Crack Pipe"
+        },
+        {
+          "file": "meth_pipe",
+          "label": "Meth Pipe"
+        },
+        {
+          "file": "drug_scale",
+          "label": "Drug Scale"
+        },
+        {
+          "file": "pill_press",
+          "label": "Pill Press"
+        },
+        {
+          "file": "empty_capsules",
+          "label": "Empty Capsules"
+        },
+        {
+          "file": "meth_lab_flask",
+          "label": "Lab Flask"
+        },
+        {
+          "file": "lithium_batteries",
+          "label": "Stripped Batteries"
+        },
+        {
+          "file": "cold_medicine_box",
+          "label": "Cold Medicine Box"
+        },
+        {
+          "file": "drain_cleaner",
+          "label": "Drain Cleaner"
+        },
+        {
+          "file": "glass_jar_chemicals",
+          "label": "Chemical Jar"
+        },
+        {
+          "file": "cannabis_plant_small",
+          "label": "Cannabis Seedling"
+        },
+        {
+          "file": "cannabis_plant_mature",
+          "label": "Mature Cannabis Plant"
+        },
+        {
+          "file": "drying_rack_buds",
+          "label": "Drying Rack"
+        },
+        {
+          "file": "mason_jar_curing",
+          "label": "Curing Jar"
+        },
+        {
+          "file": "opium_pipe",
+          "label": "Opium Pipe"
+        },
+        {
+          "file": "poppy_pods",
+          "label": "Poppy Pods"
+        },
+        {
+          "file": "heroin_powder",
+          "label": "Heroin Powder"
+        },
+        {
+          "file": "weed_vape_cart",
+          "label": "THC Vape Cartridge"
+        },
+        {
+          "file": "drug_mule_pellets",
+          "label": "Swallowed Pellets"
+        },
+        {
+          "file": "lean_cup",
+          "label": "Lean Cup"
+        },
+        {
+          "file": "peyote_button",
+          "label": "Peyote Button"
+        },
+        {
+          "file": "khat_leaves",
+          "label": "Khat Leaves"
+        }
+      ]
+    },
+    "smoking": {
+      "label": "Smoking",
+      "items": [
+        {
+          "file": "cigarette_pack",
+          "label": "Cigarettes"
+        },
+        {
+          "file": "cigarette_single",
+          "label": "Cigarette"
+        },
+        {
+          "file": "cigar",
+          "label": "Cigar"
+        },
+        {
+          "file": "lighter",
+          "label": "Lighter"
+        },
+        {
+          "file": "matchbox",
+          "label": "Matchbox"
+        },
+        {
+          "file": "ashtray",
+          "label": "Ashtray"
+        },
+        {
+          "file": "vape_pen",
+          "label": "Vape Pen"
+        },
+        {
+          "file": "e_liquid_bottle",
+          "label": "E-Liquid Bottle"
+        },
+        {
+          "file": "tobacco_pouch",
+          "label": "Tobacco Pouch"
+        },
+        {
+          "file": "rolling_paper",
+          "label": "Rolling Paper"
+        },
+        {
+          "file": "rolling_filter_tips",
+          "label": "Filter Tips"
+        },
+        {
+          "file": "herb_grinder",
+          "label": "Herb Grinder"
+        },
+        {
+          "file": "hookah",
+          "label": "Hookah"
+        },
+        {
+          "file": "hookah_coal",
+          "label": "Hookah Coal"
+        },
+        {
+          "file": "pipe_tobacco",
+          "label": "Tobacco Pipe"
+        },
+        {
+          "file": "lighter_fluid_can",
+          "label": "Lighter Fluid"
+        },
+        {
+          "file": "cigarette_case",
+          "label": "Cigarette Case"
+        },
+        {
+          "file": "snus_tin",
+          "label": "Snus Tin"
+        },
+        {
+          "file": "chewing_tobacco_pouch",
+          "label": "Chewing Tobacco"
+        },
+        {
+          "file": "rolling_tray",
+          "label": "Rolling Tray"
+        },
+        {
+          "file": "nicotine_gum",
+          "label": "Nicotine Gum"
+        },
+        {
+          "file": "nicotine_patch",
+          "label": "Nicotine Patch"
+        }
+      ]
+    },
+    "cooking_ingredients": {
+      "label": "Cooking Ingredients",
+      "items": [
+        {
+          "file": "flour_bag",
+          "label": "Flour"
+        },
+        {
+          "file": "sugar_bag",
+          "label": "Sugar"
+        },
+        {
+          "file": "brown_sugar_bag",
+          "label": "Brown Sugar"
+        },
+        {
+          "file": "salt_container",
+          "label": "Salt"
+        },
+        {
+          "file": "black_pepper_grinder",
+          "label": "Pepper Grinder"
+        },
+        {
+          "file": "cooking_oil_bottle",
+          "label": "Cooking Oil"
+        },
+        {
+          "file": "olive_oil_bottle",
+          "label": "Olive Oil"
+        },
+        {
+          "file": "butter_block",
+          "label": "Butter"
+        },
+        {
+          "file": "yeast_packet",
+          "label": "Yeast"
+        },
+        {
+          "file": "dough_ball",
+          "label": "Dough"
+        },
+        {
+          "file": "vanilla_extract",
+          "label": "Vanilla Extract"
+        },
+        {
+          "file": "cinnamon_stick",
+          "label": "Cinnamon Stick"
+        },
+        {
+          "file": "cinnamon_powder",
+          "label": "Cinnamon Powder"
+        },
+        {
+          "file": "cocoa_powder",
+          "label": "Cocoa Powder"
+        },
+        {
+          "file": "honey_jar",
+          "label": "Honey"
+        },
+        {
+          "file": "maple_syrup_bottle",
+          "label": "Maple Syrup"
+        },
+        {
+          "file": "ketchup_bottle",
+          "label": "Ketchup"
+        },
+        {
+          "file": "mustard_bottle",
+          "label": "Mustard"
+        },
+        {
+          "file": "mayo_jar",
+          "label": "Mayonnaise"
+        },
+        {
+          "file": "bbq_sauce_bottle",
+          "label": "BBQ Sauce"
+        },
+        {
+          "file": "hot_sauce_bottle",
+          "label": "Hot Sauce"
+        },
+        {
+          "file": "soy_sauce_bottle",
+          "label": "Soy Sauce"
+        },
+        {
+          "file": "vinegar_bottle",
+          "label": "Vinegar"
+        },
+        {
+          "file": "tomato_paste_can",
+          "label": "Tomato Paste"
+        },
+        {
+          "file": "spice_jar_paprika",
+          "label": "Paprika"
+        },
+        {
+          "file": "spice_jar_oregano",
+          "label": "Oregano"
+        },
+        {
+          "file": "spice_jar_basil",
+          "label": "Basil"
+        },
+        {
+          "file": "garlic_powder_jar",
+          "label": "Garlic Powder"
+        },
+        {
+          "file": "nutmeg_whole",
+          "label": "Nutmeg"
+        },
+        {
+          "file": "bay_leaves_bundle",
+          "label": "Bay Leaves"
+        },
+        {
+          "file": "breadcrumbs_bag",
+          "label": "Breadcrumbs"
+        },
+        {
+          "file": "cornstarch_box",
+          "label": "Cornstarch"
+        },
+        {
+          "file": "baking_powder",
+          "label": "Baking Powder"
+        },
+        {
+          "file": "gelatin_packet",
+          "label": "Gelatin"
+        },
+        {
+          "file": "bouillon_cube",
+          "label": "Bouillon Cube"
+        },
+        {
+          "file": "coffee_beans_bag",
+          "label": "Coffee Beans"
+        },
+        {
+          "file": "rice_vinegar_bottle",
+          "label": "Rice Vinegar"
+        },
+        {
+          "file": "sesame_oil_bottle",
+          "label": "Sesame Oil"
+        },
+        {
+          "file": "chili_flakes_jar",
+          "label": "Chili Flakes"
+        },
+        {
+          "file": "gravy_packet",
+          "label": "Gravy Mix"
+        },
+        {
+          "file": "pancake_mix_box",
+          "label": "Pancake Mix"
+        },
+        {
+          "file": "pizza_sauce_jar",
+          "label": "Pizza Sauce"
+        },
+        {
+          "file": "shredded_cheese_bag",
+          "label": "Shredded Cheese"
+        },
+        {
+          "file": "milk_powder_bag",
+          "label": "Powdered Milk"
+        },
+        {
+          "file": "corn_syrup_bottle",
+          "label": "Corn Syrup"
+        }
+      ]
+    },
+    "farming_produce": {
+      "label": "Farming Produce",
+      "items": [
+        {
+          "file": "wheat_sheaf",
+          "label": "Wheat Sheaf"
+        },
+        {
+          "file": "wheat_sack",
+          "label": "Sack of Wheat"
+        },
+        {
+          "file": "corn_sack",
+          "label": "Sack of Corn"
+        },
+        {
+          "file": "cotton_boll",
+          "label": "Cotton Boll"
+        },
+        {
+          "file": "hay_bale",
+          "label": "Hay Bale"
+        },
+        {
+          "file": "straw_bundle",
+          "label": "Straw Bundle"
+        },
+        {
+          "file": "hemp_bundle",
+          "label": "Hemp Bundle"
+        },
+        {
+          "file": "tobacco_leaf_bundle",
+          "label": "Tobacco Leaves"
+        },
+        {
+          "file": "sugarcane_stalk",
+          "label": "Sugarcane"
+        },
+        {
+          "file": "coffee_cherries",
+          "label": "Coffee Cherries"
+        },
+        {
+          "file": "cacao_pod",
+          "label": "Cacao Pod"
+        },
+        {
+          "file": "potato_sack",
+          "label": "Sack of Potatoes"
+        },
+        {
+          "file": "tomato_crate",
+          "label": "Crate of Tomatoes"
+        },
+        {
+          "file": "apple_crate",
+          "label": "Crate of Apples"
+        },
+        {
+          "file": "grape_crate",
+          "label": "Crate of Grapes"
+        },
+        {
+          "file": "pumpkin",
+          "label": "Pumpkin"
+        },
+        {
+          "file": "onion_sack",
+          "label": "Sack of Onions"
+        },
+        {
+          "file": "carrot_bundle",
+          "label": "Bundle of Carrots"
+        },
+        {
+          "file": "cabbage_crate",
+          "label": "Crate of Cabbages"
+        },
+        {
+          "file": "milk_pail",
+          "label": "Milk Pail"
+        },
+        {
+          "file": "egg_carton",
+          "label": "Carton of Eggs"
+        },
+        {
+          "file": "wool_bale",
+          "label": "Wool Bale"
+        },
+        {
+          "file": "chicken_feed_bag",
+          "label": "Chicken Feed"
+        },
+        {
+          "file": "fertilizer_bag",
+          "label": "Fertilizer"
+        },
+        {
+          "file": "beehive_frame",
+          "label": "Beehive Frame"
+        },
+        {
+          "file": "barley_sheaf",
+          "label": "Barley Sheaf"
+        },
+        {
+          "file": "hops_bine",
+          "label": "Hops"
+        },
+        {
+          "file": "sunflower_bundle",
+          "label": "Sunflowers"
+        },
+        {
+          "file": "soybean_pods",
+          "label": "Soybean Pods"
+        },
+        {
+          "file": "venison_hide",
+          "label": "Deer Hide"
+        },
+        {
+          "file": "silage_bale",
+          "label": "Silage Bale"
+        },
+        {
+          "file": "compost_bag",
+          "label": "Compost"
+        },
+        {
+          "file": "manure_pile",
+          "label": "Manure Pile"
+        },
+        {
+          "file": "beeswax_block",
+          "label": "Beeswax Block"
+        }
+      ]
+    },
+    "tools": {
+      "label": "Tools",
+      "items": [
+        {
+          "file": "lockpick",
+          "label": "Lockpick"
+        },
+        {
+          "file": "advancedlockpick",
+          "label": "Advanced Lockpick"
+        },
+        {
+          "file": "screwdriverset",
+          "label": "Toolkit"
+        },
+        {
+          "file": "drill",
+          "label": "Drill"
+        },
+        {
+          "file": "hammer",
+          "label": "Hammer"
+        },
+        {
+          "file": "wrench",
+          "label": "Wrench"
+        },
+        {
+          "file": "crowbar",
+          "label": "Crowbar"
+        },
+        {
+          "file": "pliers",
+          "label": "Pliers"
+        },
+        {
+          "file": "angle_grinder",
+          "label": "Angle Grinder"
+        },
+        {
+          "file": "flashlight",
+          "label": "Flashlight"
+        },
+        {
+          "file": "rope",
+          "label": "Rope"
+        },
+        {
+          "file": "duct_tape",
+          "label": "Duct Tape"
+        },
+        {
+          "file": "toolbox",
+          "label": "Toolbox"
+        },
+        {
+          "file": "repairkit",
+          "label": "Repair Kit"
+        },
+        {
+          "file": "advancedrepairkit",
+          "label": "Advanced Repair Kit"
+        },
+        {
+          "file": "cleaningkit",
+          "label": "Cleaning Kit"
+        },
+        {
+          "file": "tirerepairkit",
+          "label": "Tire Repair Kit"
+        },
+        {
+          "file": "jerry_can",
+          "label": "Jerrycan"
+        },
+        {
+          "file": "car_jack",
+          "label": "Car Jack"
+        },
+        {
+          "file": "shovel",
+          "label": "Shovel"
+        },
+        {
+          "file": "pickaxe",
+          "label": "Pickaxe"
+        },
+        {
+          "file": "fishing_rod",
+          "label": "Fishing Rod"
+        },
+        {
+          "file": "lockpick_gun",
+          "label": "Lockpick Gun"
+        },
+        {
+          "file": "screwdriver_flathead",
+          "label": "Flathead Screwdriver"
+        },
+        {
+          "file": "pipe_wrench",
+          "label": "Pipe Wrench"
+        },
+        {
+          "file": "wire_cutters",
+          "label": "Wire Cutters"
+        },
+        {
+          "file": "hacksaw",
+          "label": "Hacksaw"
+        },
+        {
+          "file": "bolt_cutters",
+          "label": "Bolt Cutters"
+        },
+        {
+          "file": "drill_bit_set",
+          "label": "Drill Bit Set"
+        },
+        {
+          "file": "tape_measure",
+          "label": "Tape Measure"
+        },
+        {
+          "file": "work_gloves",
+          "label": "Work Gloves"
+        },
+        {
+          "file": "hard_hat",
+          "label": "Hard Hat"
+        },
+        {
+          "file": "tool_belt",
+          "label": "Tool Belt"
+        },
+        {
+          "file": "sledgehammer",
+          "label": "Sledgehammer"
+        },
+        {
+          "file": "axe",
+          "label": "Axe"
+        },
+        {
+          "file": "hand_saw",
+          "label": "Hand Saw"
+        },
+        {
+          "file": "level_tool",
+          "label": "Spirit Level"
+        },
+        {
+          "file": "socket_wrench_set",
+          "label": "Socket Wrench Set"
+        },
+        {
+          "file": "multi_tool",
+          "label": "Multi-Tool"
+        },
+        {
+          "file": "zip_ties",
+          "label": "Zip Ties"
+        },
+        {
+          "file": "welding_torch",
+          "label": "Welding Torch"
+        },
+        {
+          "file": "paint_sprayer",
+          "label": "Paint Sprayer"
+        },
+        {
+          "file": "spray_paint_can",
+          "label": "Spray Paint Can"
+        },
+        {
+          "file": "fishing_net",
+          "label": "Fishing Net"
+        },
+        {
+          "file": "metal_detector",
+          "label": "Metal Detector"
+        },
+        {
+          "file": "folding_shovel",
+          "label": "Folding Shovel"
+        },
+        {
+          "file": "towing_strap",
+          "label": "Towing Strap"
+        },
+        {
+          "file": "jumper_cables",
+          "label": "Jumper Cables"
+        },
+        {
+          "file": "funnel",
+          "label": "Funnel"
+        },
+        {
+          "file": "oil_can",
+          "label": "Oil Can"
+        },
+        {
+          "file": "paint_roller",
+          "label": "Paint Roller"
+        },
+        {
+          "file": "folding_ladder",
+          "label": "Folding Step Ladder"
+        },
+        {
+          "file": "nail_gun",
+          "label": "Nail Gun"
+        },
+        {
+          "file": "caulking_gun",
+          "label": "Caulking Gun"
+        },
+        {
+          "file": "stud_finder",
+          "label": "Stud Finder"
+        },
+        {
+          "file": "utility_knife",
+          "label": "Utility Knife"
+        },
+        {
+          "file": "vice_grips",
+          "label": "Vice Grips"
+        },
+        {
+          "file": "allen_key_set",
+          "label": "Allen Key Set"
+        },
+        {
+          "file": "torque_wrench",
+          "label": "Torque Wrench"
+        },
+        {
+          "file": "car_ramps",
+          "label": "Car Ramps"
+        },
+        {
+          "file": "tow_hook",
+          "label": "Tow Hook"
+        },
+        {
+          "file": "fire_extinguisher",
+          "label": "Fire Extinguisher"
+        },
+        {
+          "file": "dust_respirator",
+          "label": "Dust Respirator"
+        },
+        {
+          "file": "ear_protection",
+          "label": "Ear Protection"
+        },
+        {
+          "file": "chainsaw",
+          "label": "Chainsaw"
+        },
+        {
+          "file": "generator_portable",
+          "label": "Portable Generator"
+        },
+        {
+          "file": "tarp_folded",
+          "label": "Tarp"
+        },
+        {
+          "file": "window_punch",
+          "label": "Window Punch"
+        }
+      ]
+    },
+    "ammo": {
+      "label": "Ammunition",
+      "items": [
+        {
+          "file": "pistol_ammo",
+          "label": "Pistol Ammo"
+        },
+        {
+          "file": "rifle_ammo",
+          "label": "Rifle Ammo"
+        },
+        {
+          "file": "smg_ammo",
+          "label": "SMG Ammo"
+        },
+        {
+          "file": "shotgun_ammo",
+          "label": "Shotgun Ammo"
+        },
+        {
+          "file": "mg_ammo",
+          "label": "MG Ammo"
+        },
+        {
+          "file": "snp_ammo",
+          "label": "Sniper Ammo"
+        },
+        {
+          "file": "ammo_box_empty",
+          "label": "Empty Ammo Box"
+        },
+        {
+          "file": "cartridge_case",
+          "label": "Cartridge Case"
+        },
+        {
+          "file": "pistol_magazine",
+          "label": "Pistol Magazine"
+        },
+        {
+          "file": "rifle_magazine",
+          "label": "Rifle Magazine"
+        },
+        {
+          "file": "drum_magazine",
+          "label": "Drum Magazine"
+        },
+        {
+          "file": "extended_magazine",
+          "label": "Extended Magazine"
+        },
+        {
+          "file": "heavy_pistol_ammo",
+          "label": "Heavy Pistol Ammo"
+        },
+        {
+          "file": "revolver_ammo",
+          "label": "Revolver Ammo"
+        },
+        {
+          "file": "marksman_ammo",
+          "label": "Marksman Ammo"
+        },
+        {
+          "file": "shotgun_slug_ammo",
+          "label": "Shotgun Slug Ammo"
+        },
+        {
+          "file": "birdshot_ammo",
+          "label": "Birdshot Ammo"
+        },
+        {
+          "file": "grenade_launcher_ammo",
+          "label": "Grenade Round"
+        },
+        {
+          "file": "flare_ammo",
+          "label": "Flare Cartridge"
+        },
+        {
+          "file": "incendiary_ammo",
+          "label": "Incendiary Ammo"
+        },
+        {
+          "file": "armor_piercing_ammo",
+          "label": "Armor Piercing Ammo"
+        },
+        {
+          "file": "tracer_ammo",
+          "label": "Tracer Ammo"
+        },
+        {
+          "file": "subsonic_ammo",
+          "label": "Subsonic Ammo"
+        },
+        {
+          "file": "hollow_point_ammo",
+          "label": "Hollow Point Ammo"
+        },
+        {
+          "file": "blank_ammo",
+          "label": "Blank Ammo"
+        },
+        {
+          "file": "ammo_can",
+          "label": "Ammo Can"
+        },
+        {
+          "file": "cartridge_case_pile",
+          "label": "Spent Casings"
+        },
+        {
+          "file": "shell_casing_shotgun",
+          "label": "Spent Shotgun Shell"
+        },
+        {
+          "file": "primer_box",
+          "label": "Primer Box"
+        },
+        {
+          "file": "smg_magazine",
+          "label": "SMG Magazine"
+        },
+        {
+          "file": "shotgun_magazine",
+          "label": "Shotgun Tube Magazine"
+        },
+        {
+          "file": "marksman_magazine",
+          "label": "Marksman Magazine"
+        },
+        {
+          "file": "revolver_speedloader",
+          "label": "Speedloader"
+        },
+        {
+          "file": "clip_stripper",
+          "label": "Stripper Clip"
+        },
+        {
+          "file": "practice_ammo",
+          "label": "Practice Ammo"
+        },
+        {
+          "file": "match_grade_ammo",
+          "label": "Match Grade Ammo"
+        },
+        {
+          "file": "ammo_pouch",
+          "label": "Ammo Pouch"
+        },
+        {
+          "file": "magazine_loader",
+          "label": "Magazine Loader"
+        }
+      ]
+    },
+    "weapon_parts": {
+      "label": "Weapon Parts",
+      "items": [
+        {
+          "file": "suppressor_attachment",
+          "label": "Suppressor"
+        },
+        {
+          "file": "flashlight_attachment",
+          "label": "Weapon Flashlight"
+        },
+        {
+          "file": "grip_attachment",
+          "label": "Grip"
+        },
+        {
+          "file": "smallscope_attachment",
+          "label": "Small Scope"
+        },
+        {
+          "file": "largescope_attachment",
+          "label": "Large Scope"
+        },
+        {
+          "file": "holoscope_attachment",
+          "label": "Holo Scope"
+        },
+        {
+          "file": "thermalscope_attachment",
+          "label": "Thermal Scope"
+        },
+        {
+          "file": "muzzle_brake",
+          "label": "Muzzle Brake"
+        },
+        {
+          "file": "weapon_barrel",
+          "label": "Barrel"
+        },
+        {
+          "file": "weapon_trigger",
+          "label": "Trigger Group"
+        },
+        {
+          "file": "red_dot_sight",
+          "label": "Red Dot Sight"
+        },
+        {
+          "file": "night_vision_scope",
+          "label": "Night Vision Scope"
+        },
+        {
+          "file": "stock_attachment",
+          "label": "Collapsible Stock"
+        },
+        {
+          "file": "wooden_stock",
+          "label": "Wooden Stock"
+        },
+        {
+          "file": "bipod_attachment",
+          "label": "Bipod"
+        },
+        {
+          "file": "laser_sight_attachment",
+          "label": "Laser Sight"
+        },
+        {
+          "file": "compensator",
+          "label": "Compensator"
+        },
+        {
+          "file": "flash_hider",
+          "label": "Flash Hider"
+        },
+        {
+          "file": "extended_barrel",
+          "label": "Extended Barrel"
+        },
+        {
+          "file": "heavy_barrel",
+          "label": "Heavy Barrel"
+        },
+        {
+          "file": "weapon_receiver",
+          "label": "Receiver"
+        },
+        {
+          "file": "weapon_slide",
+          "label": "Pistol Slide"
+        },
+        {
+          "file": "weapon_cleaning_rod",
+          "label": "Cleaning Rod"
+        },
+        {
+          "file": "weapon_cleaning_kit",
+          "label": "Weapon Cleaning Kit"
+        },
+        {
+          "file": "weapon_sling",
+          "label": "Weapon Sling"
+        },
+        {
+          "file": "choke_tube",
+          "label": "Choke Tube"
+        },
+        {
+          "file": "brass_catcher",
+          "label": "Brass Catcher"
+        },
+        {
+          "file": "rail_adapter",
+          "label": "Rail Adapter"
+        },
+        {
+          "file": "flip_up_sights",
+          "label": "Flip-Up Sights"
+        },
+        {
+          "file": "barrel_shroud",
+          "label": "Barrel Shroud"
+        },
+        {
+          "file": "recoil_pad",
+          "label": "Recoil Pad"
+        },
+        {
+          "file": "cheek_riser",
+          "label": "Cheek Riser"
+        }
+      ]
+    },
+    "police": {
+      "label": "Police & Evidence",
+      "items": [
+        {
+          "file": "handcuffs",
+          "label": "Handcuffs"
+        },
+        {
+          "file": "police_badge",
+          "label": "Police Badge"
+        },
+        {
+          "file": "police_stormram",
+          "label": "Stormram"
+        },
+        {
+          "file": "empty_evidence_bag",
+          "label": "Empty Evidence Bag"
+        },
+        {
+          "file": "filled_evidence_bag",
+          "label": "Evidence Bag"
+        },
+        {
+          "file": "evidence_marker",
+          "label": "Evidence Marker"
+        },
+        {
+          "file": "fingerprint_scanner",
+          "label": "Fingerprint Scanner"
+        },
+        {
+          "file": "police_tablet",
+          "label": "Police Tablet"
+        },
+        {
+          "file": "spike_strip",
+          "label": "Spike Strip"
+        },
+        {
+          "file": "taser",
+          "label": "Taser"
+        },
+        {
+          "file": "megaphone",
+          "label": "Megaphone"
+        },
+        {
+          "file": "body_camera",
+          "label": "Body Camera"
+        },
+        {
+          "file": "armor",
+          "label": "Armor"
+        },
+        {
+          "file": "heavyarmor",
+          "label": "Heavy Armor"
+        },
+        {
+          "file": "police_flashlight",
+          "label": "Police Flashlight"
+        },
+        {
+          "file": "breathalyzer",
+          "label": "Breathalyzer"
+        },
+        {
+          "file": "zip_tie_cuffs",
+          "label": "Zip Tie Cuffs"
+        },
+        {
+          "file": "riot_shield",
+          "label": "Riot Shield"
+        },
+        {
+          "file": "riot_helmet",
+          "label": "Riot Helmet"
+        },
+        {
+          "file": "riot_baton",
+          "label": "Riot Baton"
+        },
+        {
+          "file": "hi_vis_vest",
+          "label": "Hi-Vis Vest"
+        },
+        {
+          "file": "k9_leash",
+          "label": "K9 Leash"
+        },
+        {
+          "file": "k9_muzzle",
+          "label": "K9 Muzzle"
+        },
+        {
+          "file": "speed_radar_gun",
+          "label": "Speed Radar Gun"
+        },
+        {
+          "file": "traffic_cone",
+          "label": "Traffic Cone"
+        },
+        {
+          "file": "barricade_tape",
+          "label": "Barricade Tape"
+        },
+        {
+          "file": "crowd_barrier",
+          "label": "Crowd Barrier"
+        },
+        {
+          "file": "crime_scene_tent",
+          "label": "Forensic Tent"
+        },
+        {
+          "file": "forensic_swab_kit",
+          "label": "Forensic Swab Kit"
+        },
+        {
+          "file": "evidence_camera",
+          "label": "Evidence Camera"
+        },
+        {
+          "file": "gunshot_residue_kit",
+          "label": "GSR Test Kit"
+        },
+        {
+          "file": "police_radio",
+          "label": "Police Radio"
+        },
+        {
+          "file": "beanbag_round",
+          "label": "Beanbag Round"
+        },
+        {
+          "file": "rubber_bullet_round",
+          "label": "Rubber Bullet Round"
+        },
+        {
+          "file": "pepper_spray",
+          "label": "Pepper Spray"
+        },
+        {
+          "file": "teargas_canister",
+          "label": "Teargas Canister"
+        },
+        {
+          "file": "flashbang_grenade",
+          "label": "Flashbang"
+        },
+        {
+          "file": "smoke_grenade",
+          "label": "Smoke Grenade"
+        },
+        {
+          "file": "detective_badge",
+          "label": "Detective Badge"
+        },
+        {
+          "file": "sheriff_star_badge",
+          "label": "Sheriff Badge"
+        },
+        {
+          "file": "swat_helmet",
+          "label": "SWAT Helmet"
+        },
+        {
+          "file": "gas_mask",
+          "label": "Gas Mask"
+        },
+        {
+          "file": "k9_vest",
+          "label": "K9 Vest"
+        },
+        {
+          "file": "height_chart_board",
+          "label": "Height Chart Board"
+        },
+        {
+          "file": "polygraph_machine",
+          "label": "Polygraph Machine"
+        },
+        {
+          "file": "chalk_marking_kit",
+          "label": "Chalk Marking Kit"
+        },
+        {
+          "file": "road_flare",
+          "label": "Road Flare"
+        },
+        {
+          "file": "prisoner_uniform",
+          "label": "Prisoner Uniform"
+        },
+        {
+          "file": "ankle_monitor",
+          "label": "Ankle Monitor"
+        },
+        {
+          "file": "ticket_book",
+          "label": "Ticket Book"
+        },
+        {
+          "file": "stop_paddle",
+          "label": "Stop Paddle"
+        },
+        {
+          "file": "ballistic_shield",
+          "label": "Ballistic Shield"
+        },
+        {
+          "file": "traffic_wand",
+          "label": "Traffic Wand"
+        },
+        {
+          "file": "restraint_belt",
+          "label": "Restraint Belt"
+        },
+        {
+          "file": "field_drug_test_kit",
+          "label": "Field Drug Test Kit"
+        }
+      ]
+    },
+    "ems": {
+      "label": "EMS",
+      "items": [
+        {
+          "file": "stretcher",
+          "label": "Stretcher"
+        },
+        {
+          "file": "spine_board",
+          "label": "Spine Board"
+        },
+        {
+          "file": "cervical_collar",
+          "label": "Cervical Collar"
+        },
+        {
+          "file": "trauma_shears",
+          "label": "Trauma Shears"
+        },
+        {
+          "file": "blood_pressure_cuff",
+          "label": "Blood Pressure Cuff"
+        },
+        {
+          "file": "pulse_oximeter",
+          "label": "Pulse Oximeter"
+        },
+        {
+          "file": "glucometer",
+          "label": "Glucometer"
+        },
+        {
+          "file": "thermometer_gun",
+          "label": "Thermometer Gun"
+        },
+        {
+          "file": "otoscope",
+          "label": "Otoscope"
+        },
+        {
+          "file": "medic_bag",
+          "label": "Medic Bag"
+        },
+        {
+          "file": "burn_kit",
+          "label": "Burn Kit"
+        },
+        {
+          "file": "biohazard_bag",
+          "label": "Biohazard Bag"
+        },
+        {
+          "file": "sharps_container",
+          "label": "Sharps Container"
+        },
+        {
+          "file": "iv_bag",
+          "label": "IV Bag"
+        },
+        {
+          "file": "iv_stand",
+          "label": "IV Stand"
+        },
+        {
+          "file": "bag_valve_mask",
+          "label": "Bag Valve Mask"
+        },
+        {
+          "file": "nasal_cannula",
+          "label": "Nasal Cannula"
+        },
+        {
+          "file": "oxygen_tank",
+          "label": "Oxygen Tank"
+        },
+        {
+          "file": "suction_unit",
+          "label": "Suction Unit"
+        },
+        {
+          "file": "triage_tag",
+          "label": "Triage Tag"
+        },
+        {
+          "file": "medical_gloves_box",
+          "label": "Medical Gloves Box"
+        },
+        {
+          "file": "chest_seal",
+          "label": "Chest Seal"
+        },
+        {
+          "file": "hemostatic_dressing",
+          "label": "Hemostatic Dressing"
+        },
+        {
+          "file": "patient_monitor",
+          "label": "Patient Monitor"
+        },
+        {
+          "file": "defib_pads",
+          "label": "Defib Pads"
+        },
+        {
+          "file": "ems_helmet",
+          "label": "EMS Helmet"
+        },
+        {
+          "file": "ems_vest",
+          "label": "EMS Vest"
+        },
+        {
+          "file": "ems_jacket",
+          "label": "EMS Jacket"
+        },
+        {
+          "file": "ems_radio",
+          "label": "EMS Radio"
+        },
+        {
+          "file": "ems_badge",
+          "label": "EMS Badge"
+        },
+        {
+          "file": "splint_kit",
+          "label": "Splint Kit"
+        },
+        {
+          "file": "hazmat_suit",
+          "label": "Hazmat Suit"
+        },
+        {
+          "file": "gas_detector",
+          "label": "Gas Detector"
+        },
+        {
+          "file": "ems_jump_bag",
+          "label": "EMS Jump Bag"
+        },
+        {
+          "file": "penlight",
+          "label": "Penlight"
+        },
+        {
+          "file": "reflective_triangle",
+          "label": "Reflective Triangle"
+        },
+        {
+          "file": "stair_chair",
+          "label": "Stair Chair"
+        },
+        {
+          "file": "body_bag",
+          "label": "Body Bag"
+        },
+        {
+          "file": "thermal_blanket",
+          "label": "Thermal Blanket"
+        },
+        {
+          "file": "crash_cart",
+          "label": "Crash Cart"
+        },
+        {
+          "file": "narcotics_lockbox",
+          "label": "Narcotics Lockbox"
+        },
+        {
+          "file": "airway_management_kit",
+          "label": "Airway Management Kit"
+        },
+        {
+          "file": "pediatric_medical_kit",
+          "label": "Pediatric Medical Kit"
+        },
+        {
+          "file": "seatbelt_cutter",
+          "label": "Seatbelt Cutter"
+        }
+      ]
+    },
+    "tech": {
+      "label": "Electronics",
+      "items": [
+        {
+          "file": "phone",
+          "label": "Phone"
+        },
+        {
+          "file": "laptop",
+          "label": "Laptop"
+        },
+        {
+          "file": "tablet",
+          "label": "Tablet"
+        },
+        {
+          "file": "radio",
+          "label": "Radio"
+        },
+        {
+          "file": "radioscanner",
+          "label": "Radio Scanner"
+        },
+        {
+          "file": "pinger",
+          "label": "Pinger"
+        },
+        {
+          "file": "cryptostick",
+          "label": "Crypto Stick"
+        },
+        {
+          "file": "usb_drive",
+          "label": "USB Drive"
+        },
+        {
+          "file": "trojan_usb",
+          "label": "Trojan USB"
+        },
+        {
+          "file": "gatecrack",
+          "label": "Gatecrack"
+        },
+        {
+          "file": "electronickit",
+          "label": "Electronic Kit"
+        },
+        {
+          "file": "gps_tracker",
+          "label": "GPS Tracker"
+        },
+        {
+          "file": "smartwatch",
+          "label": "Smartwatch"
+        },
+        {
+          "file": "camera",
+          "label": "Camera"
+        },
+        {
+          "file": "drone",
+          "label": "Drone"
+        },
+        {
+          "file": "sim_card",
+          "label": "SIM Card"
+        },
+        {
+          "file": "hacking_device",
+          "label": "Hacking Device"
+        },
+        {
+          "file": "gaming_console",
+          "label": "Games Console"
+        },
+        {
+          "file": "earpiece_case",
+          "label": "Wireless Earpiece"
+        },
+        {
+          "file": "power_bank",
+          "label": "Power Bank"
+        },
+        {
+          "file": "charging_cable",
+          "label": "Charging Cable"
+        },
+        {
+          "file": "wireless_router",
+          "label": "Wireless Router"
+        },
+        {
+          "file": "external_hard_drive",
+          "label": "External Hard Drive"
+        },
+        {
+          "file": "memory_card",
+          "label": "Memory Card"
+        },
+        {
+          "file": "webcam",
+          "label": "Webcam"
+        },
+        {
+          "file": "microphone",
+          "label": "Microphone"
+        },
+        {
+          "file": "headphones",
+          "label": "Headphones"
+        },
+        {
+          "file": "earbuds_wired",
+          "label": "Wired Earbuds"
+        },
+        {
+          "file": "vr_headset",
+          "label": "VR Headset"
+        },
+        {
+          "file": "handheld_console",
+          "label": "Handheld Console"
+        },
+        {
+          "file": "keyboard",
+          "label": "Keyboard"
+        },
+        {
+          "file": "computer_mouse",
+          "label": "Computer Mouse"
+        },
+        {
+          "file": "monitor_screen",
+          "label": "Monitor"
+        },
+        {
+          "file": "server_tower",
+          "label": "Server Tower"
+        },
+        {
+          "file": "multimeter",
+          "label": "Multimeter"
+        },
+        {
+          "file": "signal_jammer",
+          "label": "Signal Jammer"
+        },
+        {
+          "file": "satellite_phone",
+          "label": "Satellite Phone"
+        },
+        {
+          "file": "burner_phone",
+          "label": "Burner Phone"
+        },
+        {
+          "file": "rfid_cloner",
+          "label": "RFID Cloner"
+        },
+        {
+          "file": "drone_controller",
+          "label": "Drone Controller"
+        },
+        {
+          "file": "action_camera",
+          "label": "Action Camera"
+        },
+        {
+          "file": "portable_ssd",
+          "label": "Portable SSD"
+        },
+        {
+          "file": "night_vision_monocular",
+          "label": "Night Vision Monocular"
+        },
+        {
+          "file": "portable_speaker",
+          "label": "Portable Speaker"
+        },
+        {
+          "file": "portable_printer",
+          "label": "Portable Printer"
+        },
+        {
+          "file": "smart_home_hub",
+          "label": "Smart Home Hub"
+        },
+        {
+          "file": "drone_battery",
+          "label": "Drone Battery"
+        },
+        {
+          "file": "radar_detector",
+          "label": "Radar Detector"
+        },
+        {
+          "file": "tracking_disc",
+          "label": "Tracking Disc"
+        },
+        {
+          "file": "spy_pen_camera",
+          "label": "Spy Pen Camera"
+        },
+        {
+          "file": "radio_headset",
+          "label": "Radio Headset"
+        },
+        {
+          "file": "barcode_scanner",
+          "label": "Barcode Scanner"
+        },
+        {
+          "file": "id_scanner",
+          "label": "ID Scanner"
+        },
+        {
+          "file": "signal_booster",
+          "label": "Signal Booster"
+        },
+        {
+          "file": "solar_charger",
+          "label": "Solar Charger"
+        },
+        {
+          "file": "digital_voice_recorder",
+          "label": "Voice Recorder"
+        },
+        {
+          "file": "pager",
+          "label": "Pager"
+        },
+        {
+          "file": "smart_glasses",
+          "label": "Smart Glasses"
+        },
+        {
+          "file": "gps_navigator",
+          "label": "GPS Navigator"
+        }
+      ]
+    },
+    "documents": {
+      "label": "Documents",
+      "items": [
+        {
+          "file": "id_card",
+          "label": "ID Card"
+        },
+        {
+          "file": "driver_license",
+          "label": "Drivers License"
+        },
+        {
+          "file": "weaponlicense",
+          "label": "Weapon License"
+        },
+        {
+          "file": "lawyerpass",
+          "label": "Lawyer Pass"
+        },
+        {
+          "file": "hunting_license",
+          "label": "Hunting License"
+        },
+        {
+          "file": "fishing_license",
+          "label": "Fishing License"
+        },
+        {
+          "file": "passport",
+          "label": "Passport"
+        },
+        {
+          "file": "bank_card",
+          "label": "Bank Card"
+        },
+        {
+          "file": "security_card_01",
+          "label": "Security Card A"
+        },
+        {
+          "file": "security_card_02",
+          "label": "Security Card B"
+        },
+        {
+          "file": "contract_paper",
+          "label": "Contract"
+        },
+        {
+          "file": "receipt",
+          "label": "Receipt"
+        },
+        {
+          "file": "business_card",
+          "label": "Business Card"
+        },
+        {
+          "file": "stickynote",
+          "label": "Sticky Note"
+        },
+        {
+          "file": "birth_certificate",
+          "label": "Birth Certificate"
+        },
+        {
+          "file": "marriage_certificate",
+          "label": "Marriage Certificate"
+        },
+        {
+          "file": "pilot_license",
+          "label": "Pilot License"
+        },
+        {
+          "file": "boat_license",
+          "label": "Boat License"
+        },
+        {
+          "file": "work_permit",
+          "label": "Work Permit"
+        },
+        {
+          "file": "criminal_record_file",
+          "label": "Criminal Record File"
+        },
+        {
+          "file": "property_deed",
+          "label": "Property Deed"
+        },
+        {
+          "file": "vehicle_registration",
+          "label": "Vehicle Registration"
+        },
+        {
+          "file": "insurance_document",
+          "label": "Insurance Document"
+        },
+        {
+          "file": "newspaper",
+          "label": "Newspaper"
+        },
+        {
+          "file": "envelope_sealed",
+          "label": "Sealed Envelope"
+        },
+        {
+          "file": "envelope_open",
+          "label": "Open Envelope"
+        },
+        {
+          "file": "notebook",
+          "label": "Notebook"
+        },
+        {
+          "file": "ledger_book",
+          "label": "Ledger Book"
+        },
+        {
+          "file": "folded_map",
+          "label": "Folded Map"
+        },
+        {
+          "file": "blueprint_roll",
+          "label": "Blueprint Roll"
+        },
+        {
+          "file": "court_summons",
+          "label": "Court Summons"
+        },
+        {
+          "file": "incident_report_form",
+          "label": "Incident Report Form"
+        },
+        {
+          "file": "membership_card",
+          "label": "Membership Card"
+        },
+        {
+          "file": "diploma",
+          "label": "Diploma"
+        },
+        {
+          "file": "hotel_keycard_sleeve",
+          "label": "Hotel Keycard"
+        },
+        {
+          "file": "photograph_stack",
+          "label": "Photographs"
+        },
+        {
+          "file": "press_pass",
+          "label": "Press Pass"
+        },
+        {
+          "file": "checkbook",
+          "label": "Checkbook"
+        },
+        {
+          "file": "wanted_poster",
+          "label": "Wanted Poster"
+        },
+        {
+          "file": "confidential_folder",
+          "label": "Confidential Folder"
+        }
+      ]
+    },
+    "keys": {
+      "label": "Keys",
+      "items": [
+        {
+          "file": "house_key",
+          "label": "House Key"
+        },
+        {
+          "file": "motel_key",
+          "label": "Motel Key"
+        },
+        {
+          "file": "garage_remote",
+          "label": "Garage Remote"
+        },
+        {
+          "file": "office_key",
+          "label": "Office Key"
+        },
+        {
+          "file": "skeleton_key",
+          "label": "Skeleton Key"
+        },
+        {
+          "file": "safe_key",
+          "label": "Safe Key"
+        },
+        {
+          "file": "handcuff_key",
+          "label": "Handcuff Key"
+        },
+        {
+          "file": "keyring_bunch",
+          "label": "Keyring Bunch"
+        },
+        {
+          "file": "warehouse_key",
+          "label": "Warehouse Key"
+        },
+        {
+          "file": "ambulance_key",
+          "label": "Ambulance Key"
+        },
+        {
+          "file": "cruiser_key",
+          "label": "Cruiser Key"
+        },
+        {
+          "file": "boat_key",
+          "label": "Boat Key"
+        },
+        {
+          "file": "motorcycle_key",
+          "label": "Motorcycle Key"
+        },
+        {
+          "file": "bike_lock_key",
+          "label": "Bike Lock Key"
+        },
+        {
+          "file": "vault_key",
+          "label": "Vault Key"
+        },
+        {
+          "file": "storage_key",
+          "label": "Storage Key"
+        },
+        {
+          "file": "key_lockbox",
+          "label": "Key Lockbox"
+        },
+        {
+          "file": "valet_key",
+          "label": "Valet Key"
+        },
+        {
+          "file": "key_blank",
+          "label": "Key Blank"
+        },
+        {
+          "file": "locker_key",
+          "label": "Locker Key"
+        },
+        {
+          "file": "diary_key",
+          "label": "Diary Key"
+        },
+        {
+          "file": "old_rusty_key",
+          "label": "Old Rusty Key"
+        },
+        {
+          "file": "ignition_key",
+          "label": "Ignition Key"
+        },
+        {
+          "file": "filing_cabinet_key",
+          "label": "Filing Cabinet Key"
+        },
+        {
+          "file": "key_organizer",
+          "label": "Key Organizer"
+        }
+      ]
+    },
+    "bags": {
+      "label": "Bags",
+      "items": [
+        {
+          "file": "backpack",
+          "label": "Backpack"
+        },
+        {
+          "file": "duffel_bag",
+          "label": "Duffel Bag"
+        },
+        {
+          "file": "trash_bag",
+          "label": "Trash Bag"
+        },
+        {
+          "file": "gym_bag",
+          "label": "Gym Bag"
+        },
+        {
+          "file": "messenger_bag",
+          "label": "Messenger Bag"
+        },
+        {
+          "file": "tote_bag",
+          "label": "Tote Bag"
+        },
+        {
+          "file": "briefcase",
+          "label": "Briefcase"
+        },
+        {
+          "file": "suitcase",
+          "label": "Suitcase"
+        },
+        {
+          "file": "gun_case",
+          "label": "Gun Case"
+        },
+        {
+          "file": "pistol_case",
+          "label": "Pistol Case"
+        },
+        {
+          "file": "tactical_backpack",
+          "label": "Tactical Backpack"
+        },
+        {
+          "file": "drawstring_bag",
+          "label": "Drawstring Bag"
+        },
+        {
+          "file": "fanny_pack",
+          "label": "Fanny Pack"
+        },
+        {
+          "file": "tool_bag",
+          "label": "Tool Bag"
+        },
+        {
+          "file": "cooler_bag",
+          "label": "Cooler Bag"
+        },
+        {
+          "file": "camera_bag",
+          "label": "Camera Bag"
+        },
+        {
+          "file": "laptop_bag",
+          "label": "Laptop Bag"
+        },
+        {
+          "file": "mail_bag",
+          "label": "Mail Bag"
+        },
+        {
+          "file": "paper_grocery_bag",
+          "label": "Grocery Bag"
+        },
+        {
+          "file": "burlap_sack",
+          "label": "Burlap Sack"
+        },
+        {
+          "file": "school_backpack",
+          "label": "School Backpack"
+        },
+        {
+          "file": "plastic_bag",
+          "label": "Plastic Bag"
+        },
+        {
+          "file": "deposit_bag",
+          "label": "Deposit Bag"
+        },
+        {
+          "file": "document_tube",
+          "label": "Document Tube"
+        },
+        {
+          "file": "dry_bag",
+          "label": "Dry Bag"
+        }
+      ]
+    },
+    "security": {
+      "label": "Security",
+      "items": [
+        {
+          "file": "padlock",
+          "label": "Padlock"
+        },
+        {
+          "file": "combination_lock",
+          "label": "Combination Lock"
+        },
+        {
+          "file": "deadbolt_lock",
+          "label": "Deadbolt Lock"
+        },
+        {
+          "file": "door_chain",
+          "label": "Door Chain"
+        },
+        {
+          "file": "safe_box",
+          "label": "Safe Box"
+        },
+        {
+          "file": "wall_safe",
+          "label": "Wall Safe"
+        },
+        {
+          "file": "cctv_camera",
+          "label": "CCTV Dome Camera"
+        },
+        {
+          "file": "cctv_camera_bullet",
+          "label": "CCTV Bullet Camera"
+        },
+        {
+          "file": "motion_sensor",
+          "label": "Motion Sensor"
+        },
+        {
+          "file": "alarm_panel",
+          "label": "Alarm Panel"
+        },
+        {
+          "file": "door_sensor",
+          "label": "Door Sensor"
+        },
+        {
+          "file": "keycard_reader",
+          "label": "Keycard Reader"
+        },
+        {
+          "file": "keypad_lock",
+          "label": "Keypad Lock"
+        },
+        {
+          "file": "security_monitor",
+          "label": "Security Monitor"
+        },
+        {
+          "file": "binoculars",
+          "label": "Binoculars"
+        },
+        {
+          "file": "night_vision_goggles",
+          "label": "Night Vision Goggles"
+        },
+        {
+          "file": "bike_lock_cable",
+          "label": "Cable Lock"
+        },
+        {
+          "file": "chain_lock_heavy",
+          "label": "Heavy Chain Lock"
+        },
+        {
+          "file": "glass_break_sensor",
+          "label": "Glass Break Sensor"
+        },
+        {
+          "file": "rfid_blocker_wallet",
+          "label": "RFID Blocker Wallet"
+        },
+        {
+          "file": "metal_detector_wand",
+          "label": "Security Wand"
+        },
+        {
+          "file": "panic_button",
+          "label": "Panic Button"
+        },
+        {
+          "file": "tamper_seal",
+          "label": "Tamper Seal"
+        },
+        {
+          "file": "security_mirror",
+          "label": "Inspection Mirror"
+        },
+        {
+          "file": "thermal_imager",
+          "label": "Thermal Imager"
+        }
+      ]
+    },
+    "materials": {
+      "label": "Materials",
+      "items": [
+        {
+          "file": "plastic",
+          "label": "Plastic"
+        },
+        {
+          "file": "metalscrap",
+          "label": "Metal Scrap"
+        },
+        {
+          "file": "copper",
+          "label": "Copper Sheet"
+        },
+        {
+          "file": "aluminum",
+          "label": "Aluminium"
+        },
+        {
+          "file": "iron",
+          "label": "Iron Ingot"
+        },
+        {
+          "file": "steel",
+          "label": "Steel Plate Bundle"
+        },
+        {
+          "file": "rubber",
+          "label": "Rubber"
+        },
+        {
+          "file": "glass",
+          "label": "Glass"
+        },
+        {
+          "file": "wood_plank",
+          "label": "Wood Plank"
+        },
+        {
+          "file": "cloth",
+          "label": "Cloth"
+        },
+        {
+          "file": "leather",
+          "label": "Leather"
+        },
+        {
+          "file": "copper_wire",
+          "label": "Copper Wire"
+        },
+        {
+          "file": "aluminumoxide",
+          "label": "Aluminium Powder"
+        },
+        {
+          "file": "ironoxide",
+          "label": "Iron Powder"
+        },
+        {
+          "file": "screws",
+          "label": "Screws"
+        },
+        {
+          "file": "fiberglass_sheet",
+          "label": "Fiberglass Sheet"
+        },
+        {
+          "file": "resin_block",
+          "label": "Resin Block"
+        },
+        {
+          "file": "cement_bag",
+          "label": "Bag of Cement"
+        },
+        {
+          "file": "epoxy_tube",
+          "label": "Epoxy Tube"
+        },
+        {
+          "file": "fabric_bolt_canvas",
+          "label": "Canvas Bolt"
+        },
+        {
+          "file": "wool_bundle",
+          "label": "Wool Bundle"
+        },
+        {
+          "file": "cotton_bale",
+          "label": "Cotton Bale"
+        },
+        {
+          "file": "denim_roll",
+          "label": "Denim Roll"
+        },
+        {
+          "file": "sawdust_bag",
+          "label": "Bag of Sawdust"
+        },
+        {
+          "file": "tar_bucket",
+          "label": "Tar Bucket"
+        },
+        {
+          "file": "gasket_sheet",
+          "label": "Gasket Sheet"
+        },
+        {
+          "file": "o_ring_pack",
+          "label": "O-Rings"
+        },
+        {
+          "file": "bearing_metal",
+          "label": "Ball Bearing"
+        },
+        {
+          "file": "spring_coil_metal",
+          "label": "Metal Spring"
+        },
+        {
+          "file": "hinge_brass",
+          "label": "Brass Hinge"
+        },
+        {
+          "file": "bracket_steel",
+          "label": "Steel Bracket"
+        },
+        {
+          "file": "pvc_pipe_section",
+          "label": "PVC Pipe"
+        },
+        {
+          "file": "wiring_harness",
+          "label": "Wiring Harness"
+        },
+        {
+          "file": "circuit_board_scrap",
+          "label": "Circuit Board Scrap"
+        },
+        {
+          "file": "solder_wire_spool",
+          "label": "Solder Wire"
+        },
+        {
+          "file": "fiber_optic_spool",
+          "label": "Fiber Optic Spool"
+        },
+        {
+          "file": "sponge_block",
+          "label": "Sponge Block"
+        },
+        {
+          "file": "plastic_wrap_roll",
+          "label": "Plastic Wrap"
+        },
+        {
+          "file": "insulation_foam_roll",
+          "label": "Insulation Foam"
+        }
+      ]
+    },
+    "crafting": {
+      "label": "Crafting",
+      "items": [
+        {
+          "file": "workbench_kit",
+          "label": "Folding Workbench"
+        },
+        {
+          "file": "sewing_kit",
+          "label": "Sewing Kit"
+        },
+        {
+          "file": "thread_spool",
+          "label": "Thread Spool"
+        },
+        {
+          "file": "button_jar",
+          "label": "Jar of Buttons"
+        },
+        {
+          "file": "zipper_roll",
+          "label": "Zipper Roll"
+        },
+        {
+          "file": "leather_punch_tool",
+          "label": "Leather Punch"
+        },
+        {
+          "file": "stitching_awl",
+          "label": "Stitching Awl"
+        },
+        {
+          "file": "pattern_template",
+          "label": "Pattern Template"
+        },
+        {
+          "file": "soldering_iron",
+          "label": "Soldering Iron"
+        },
+        {
+          "file": "solder_flux_tin",
+          "label": "Soldering Flux"
+        },
+        {
+          "file": "welding_rod_bundle",
+          "label": "Welding Rods"
+        },
+        {
+          "file": "welding_mask",
+          "label": "Welding Mask"
+        },
+        {
+          "file": "anvil",
+          "label": "Anvil"
+        },
+        {
+          "file": "forge_bellows",
+          "label": "Forge Bellows"
+        },
+        {
+          "file": "crucible",
+          "label": "Crucible"
+        },
+        {
+          "file": "ingot_mould_tray",
+          "label": "Ingot Mould"
+        },
+        {
+          "file": "stamping_die",
+          "label": "Stamping Die"
+        },
+        {
+          "file": "rivet_gun",
+          "label": "Rivet Gun"
+        },
+        {
+          "file": "staple_gun",
+          "label": "Staple Gun"
+        },
+        {
+          "file": "c_clamp",
+          "label": "C-Clamp"
+        },
+        {
+          "file": "bench_vice",
+          "label": "Bench Vice"
+        },
+        {
+          "file": "grinding_wheel",
+          "label": "Grinding Wheel"
+        },
+        {
+          "file": "honing_stone",
+          "label": "Honing Stone"
+        },
+        {
+          "file": "sanding_block",
+          "label": "Sanding Block"
+        },
+        {
+          "file": "paint_can_open",
+          "label": "Open Paint Can"
+        },
+        {
+          "file": "varnish_tin",
+          "label": "Varnish Tin"
+        },
+        {
+          "file": "glue_bottle",
+          "label": "Glue Bottle"
+        },
+        {
+          "file": "measuring_tape",
+          "label": "Measuring Tape"
+        },
+        {
+          "file": "chisel_set",
+          "label": "Chisel Set"
+        },
+        {
+          "file": "mallet_rubber",
+          "label": "Rubber Mallet"
+        },
+        {
+          "file": "schematic_folder",
+          "label": "Schematic Folder"
+        },
+        {
+          "file": "workshop_apron",
+          "label": "Workshop Apron"
+        },
+        {
+          "file": "safety_goggles",
+          "label": "Safety Goggles"
+        },
+        {
+          "file": "tool_oil_can",
+          "label": "Tool Oil Can"
+        }
+      ]
+    },
+    "vehicle_parts": {
+      "label": "Vehicle Parts",
+      "items": [
+        {
+          "file": "vehicle_key",
+          "label": "Vehicle Key"
+        },
+        {
+          "file": "vehicle_remote_key",
+          "label": "Remote Key"
+        },
+        {
+          "file": "car_door",
+          "label": "Car Door"
+        },
+        {
+          "file": "car_hood",
+          "label": "Car Hood"
+        },
+        {
+          "file": "catalytic_converter",
+          "label": "Catalytic Converter"
+        },
+        {
+          "file": "vehicle_oil",
+          "label": "Motor Oil"
+        },
+        {
+          "file": "engine_block_used",
+          "label": "Used Engine Block"
+        },
+        {
+          "file": "alternator",
+          "label": "Alternator"
+        },
+        {
+          "file": "starter_motor",
+          "label": "Starter Motor"
+        },
+        {
+          "file": "radiator_core",
+          "label": "Radiator"
+        },
+        {
+          "file": "car_battery",
+          "label": "Car Battery"
+        },
+        {
+          "file": "spark_plug",
+          "label": "Spark Plug"
+        },
+        {
+          "file": "fuel_pump",
+          "label": "Fuel Pump"
+        },
+        {
+          "file": "fuel_injector",
+          "label": "Fuel Injector"
+        },
+        {
+          "file": "air_filter",
+          "label": "Air Filter"
+        },
+        {
+          "file": "oil_filter",
+          "label": "Oil Filter"
+        },
+        {
+          "file": "exhaust_manifold",
+          "label": "Exhaust Manifold"
+        },
+        {
+          "file": "muffler",
+          "label": "Muffler"
+        },
+        {
+          "file": "clutch_plate",
+          "label": "Clutch Plate"
+        },
+        {
+          "file": "driveshaft",
+          "label": "Driveshaft"
+        },
+        {
+          "file": "cv_joint",
+          "label": "CV Joint"
+        },
+        {
+          "file": "axle_shaft",
+          "label": "Axle Shaft"
+        },
+        {
+          "file": "wheel_bearing",
+          "label": "Wheel Bearing"
+        },
+        {
+          "file": "brake_pad_set",
+          "label": "Brake Pads"
+        },
+        {
+          "file": "brake_rotor_disc",
+          "label": "Brake Rotor"
+        },
+        {
+          "file": "timing_belt",
+          "label": "Timing Belt"
+        },
+        {
+          "file": "serpentine_belt",
+          "label": "Serpentine Belt"
+        },
+        {
+          "file": "water_pump",
+          "label": "Water Pump"
+        },
+        {
+          "file": "oil_pan",
+          "label": "Oil Pan"
+        },
+        {
+          "file": "cylinder_head",
+          "label": "Cylinder Head"
+        },
+        {
+          "file": "piston_set",
+          "label": "Piston Set"
+        },
+        {
+          "file": "crankshaft",
+          "label": "Crankshaft"
+        },
+        {
+          "file": "camshaft",
+          "label": "Camshaft"
+        },
+        {
+          "file": "gasket_set",
+          "label": "Head Gasket"
+        },
+        {
+          "file": "wiring_loom",
+          "label": "Wiring Loom"
+        },
+        {
+          "file": "ignition_coil",
+          "label": "Ignition Coil"
+        },
+        {
+          "file": "car_bumper",
+          "label": "Car Bumper"
+        },
+        {
+          "file": "car_fender",
+          "label": "Car Fender"
+        },
+        {
+          "file": "side_mirror",
+          "label": "Side Mirror"
+        },
+        {
+          "file": "headlight_unit",
+          "label": "Headlight"
+        },
+        {
+          "file": "taillight_unit",
+          "label": "Taillight"
+        },
+        {
+          "file": "windshield_glass",
+          "label": "Windshield"
+        },
+        {
+          "file": "wheel_rim_bare",
+          "label": "Bare Wheel Rim"
+        },
+        {
+          "file": "fuel_tank",
+          "label": "Fuel Tank"
+        },
+        {
+          "file": "radiator_hose",
+          "label": "Radiator Hose"
+        }
+      ]
+    },
+    "vehicle_tuning": {
+      "label": "Vehicle Tuning",
+      "items": [
+        {
+          "file": "veh_engine",
+          "label": "Performance Engine"
+        },
+        {
+          "file": "veh_turbo",
+          "label": "Turbo"
+        },
+        {
+          "file": "veh_brakes",
+          "label": "Brakes"
+        },
+        {
+          "file": "veh_suspension",
+          "label": "Suspension"
+        },
+        {
+          "file": "veh_transmission",
+          "label": "Transmission"
+        },
+        {
+          "file": "veh_armor",
+          "label": "Vehicle Armor"
+        },
+        {
+          "file": "veh_wheels",
+          "label": "Wheels"
+        },
+        {
+          "file": "veh_neons",
+          "label": "Neons"
+        },
+        {
+          "file": "veh_xenons",
+          "label": "Xenons"
+        },
+        {
+          "file": "veh_tint",
+          "label": "Window Tint"
+        },
+        {
+          "file": "veh_plates",
+          "label": "License Plate"
+        },
+        {
+          "file": "veh_interior",
+          "label": "Interior Kit"
+        },
+        {
+          "file": "veh_exterior",
+          "label": "Body Kit"
+        },
+        {
+          "file": "nitrous",
+          "label": "Nitrous"
+        },
+        {
+          "file": "harness",
+          "label": "Race Harness"
+        },
+        {
+          "file": "tunerlaptop",
+          "label": "Tuner Laptop"
+        },
+        {
+          "file": "cold_air_intake",
+          "label": "Cold Air Intake"
+        },
+        {
+          "file": "ecu_chip",
+          "label": "ECU Tuning Chip"
+        },
+        {
+          "file": "cat_back_exhaust",
+          "label": "Cat-Back Exhaust"
+        },
+        {
+          "file": "sway_bar_kit",
+          "label": "Sway Bar Kit"
+        },
+        {
+          "file": "strut_brace",
+          "label": "Strut Brace"
+        },
+        {
+          "file": "roll_cage_kit",
+          "label": "Roll Cage"
+        },
+        {
+          "file": "hood_scoop",
+          "label": "Hood Scoop"
+        },
+        {
+          "file": "exhaust_tip_chrome",
+          "label": "Exhaust Tips"
+        },
+        {
+          "file": "underglow_kit",
+          "label": "Underglow Kit"
+        },
+        {
+          "file": "vinyl_wrap_roll",
+          "label": "Vinyl Wrap"
+        },
+        {
+          "file": "tow_hook_kit",
+          "label": "Tow Hook"
+        },
+        {
+          "file": "front_splitter",
+          "label": "Front Splitter"
+        },
+        {
+          "file": "rear_diffuser",
+          "label": "Rear Diffuser"
+        },
+        {
+          "file": "short_shifter_kit",
+          "label": "Short Shifter"
+        },
+        {
+          "file": "quick_release_hub",
+          "label": "Quick Release Hub"
+        },
+        {
+          "file": "wheel_spacer_set",
+          "label": "Wheel Spacers"
+        },
+        {
+          "file": "lowering_spring_set",
+          "label": "Lowering Springs"
+        },
+        {
+          "file": "air_suspension_kit",
+          "label": "Air Suspension Kit"
+        },
+        {
+          "file": "performance_clutch_kit",
+          "label": "Performance Clutch"
+        },
+        {
+          "file": "supercharger_unit",
+          "label": "Supercharger"
+        },
+        {
+          "file": "dyno_tuning_tool",
+          "label": "Diagnostic Tuner"
+        },
+        {
+          "file": "steering_wheel_racing",
+          "label": "Racing Steering Wheel"
+        },
+        {
+          "file": "brake_line_kit",
+          "label": "Brake Line Kit"
+        },
+        {
+          "file": "widebody_fender_flares",
+          "label": "Fender Flares"
+        }
+      ]
+    },
+    "mining": {
+      "label": "Mining",
+      "items": [
+        {
+          "file": "coal_ore",
+          "label": "Coal Ore"
+        },
+        {
+          "file": "iron_ore",
+          "label": "Iron Ore"
+        },
+        {
+          "file": "copper_ore",
+          "label": "Copper Ore"
+        },
+        {
+          "file": "gold_ore",
+          "label": "Gold Ore"
+        },
+        {
+          "file": "silver_ore",
+          "label": "Silver Ore"
+        },
+        {
+          "file": "tin_ore",
+          "label": "Tin Ore"
+        },
+        {
+          "file": "zinc_ore",
+          "label": "Zinc Ore"
+        },
+        {
+          "file": "lead_ore",
+          "label": "Lead Ore"
+        },
+        {
+          "file": "nickel_ore",
+          "label": "Nickel Ore"
+        },
+        {
+          "file": "titanium_ore",
+          "label": "Titanium Ore"
+        },
+        {
+          "file": "platinum_ore",
+          "label": "Platinum Ore"
+        },
+        {
+          "file": "bauxite_ore",
+          "label": "Bauxite Ore"
+        },
+        {
+          "file": "cinnabar_ore",
+          "label": "Cinnabar Ore"
+        },
+        {
+          "file": "galena_cluster",
+          "label": "Galena Cluster"
+        },
+        {
+          "file": "sulfur_chunk",
+          "label": "Sulfur Chunk"
+        },
+        {
+          "file": "salt_crystal",
+          "label": "Salt Crystal"
+        },
+        {
+          "file": "quartz_crystal",
+          "label": "Quartz Crystal"
+        },
+        {
+          "file": "amethyst_geode",
+          "label": "Amethyst Geode"
+        },
+        {
+          "file": "emerald_crystal",
+          "label": "Emerald Crystal"
+        },
+        {
+          "file": "ruby_crystal",
+          "label": "Ruby Crystal"
+        },
+        {
+          "file": "diamond_crystal",
+          "label": "Raw Diamond"
+        },
+        {
+          "file": "obsidian_shard",
+          "label": "Obsidian Shard"
+        },
+        {
+          "file": "granite_chunk",
+          "label": "Granite Chunk"
+        },
+        {
+          "file": "limestone_chunk",
+          "label": "Limestone Chunk"
+        },
+        {
+          "file": "clay_lump",
+          "label": "Clay Lump"
+        },
+        {
+          "file": "sand_bag",
+          "label": "Bag of Sand"
+        },
+        {
+          "file": "gravel_pile",
+          "label": "Gravel Pile"
+        },
+        {
+          "file": "mica_sheet",
+          "label": "Mica Sheet"
+        },
+        {
+          "file": "fluorite_cluster",
+          "label": "Fluorite Cluster"
+        },
+        {
+          "file": "turquoise_chunk",
+          "label": "Turquoise Chunk"
+        },
+        {
+          "file": "opal_shard",
+          "label": "Opal Shard"
+        },
+        {
+          "file": "garnet_cluster",
+          "label": "Garnet Cluster"
+        },
+        {
+          "file": "topaz_crystal",
+          "label": "Topaz Crystal"
+        },
+        {
+          "file": "jade_raw",
+          "label": "Raw Jade"
+        },
+        {
+          "file": "pyrite_cluster",
+          "label": "Pyrite Cluster"
+        },
+        {
+          "file": "mercury_flask",
+          "label": "Mercury Flask"
+        },
+        {
+          "file": "graphite_chunk",
+          "label": "Graphite Chunk"
+        },
+        {
+          "file": "slag_pile",
+          "label": "Slag Pile"
+        },
+        {
+          "file": "gold_nugget",
+          "label": "Gold Nugget"
+        },
+        {
+          "file": "silver_nugget",
+          "label": "Silver Nugget"
+        },
+        {
+          "file": "copper_nugget",
+          "label": "Copper Nugget"
+        },
+        {
+          "file": "tin_nugget",
+          "label": "Tin Nugget"
+        },
+        {
+          "file": "coal_briquette_stack",
+          "label": "Coal Briquettes"
+        },
+        {
+          "file": "refined_ore_crate",
+          "label": "Crate of Sorted Ore"
+        },
+        {
+          "file": "pickaxe_steel",
+          "label": "Steel Pickaxe"
+        },
+        {
+          "file": "pickaxe_diamond_tip",
+          "label": "Diamond-Tip Pickaxe"
+        },
+        {
+          "file": "mining_drill",
+          "label": "Mining Drill"
+        },
+        {
+          "file": "jackhammer",
+          "label": "Jackhammer"
+        },
+        {
+          "file": "dynamite_stick",
+          "label": "Dynamite"
+        },
+        {
+          "file": "blasting_cap",
+          "label": "Blasting Cap"
+        },
+        {
+          "file": "plunger_detonator",
+          "label": "Plunger Detonator"
+        },
+        {
+          "file": "mining_helmet",
+          "label": "Mining Helmet"
+        },
+        {
+          "file": "headlamp_battery_pack",
+          "label": "Headlamp Battery Pack"
+        },
+        {
+          "file": "miners_lantern",
+          "label": "Miner's Lantern"
+        },
+        {
+          "file": "canary_cage",
+          "label": "Canary Cage"
+        },
+        {
+          "file": "ore_cart",
+          "label": "Ore Cart"
+        },
+        {
+          "file": "mining_pan",
+          "label": "Gold Pan"
+        },
+        {
+          "file": "sieve_mesh",
+          "label": "Mining Sieve"
+        },
+        {
+          "file": "geiger_counter",
+          "label": "Geiger Counter"
+        },
+        {
+          "file": "rock_drill_bit",
+          "label": "Drill Bit"
+        },
+        {
+          "file": "surveying_stake",
+          "label": "Surveying Stake"
+        },
+        {
+          "file": "ore_sample_bag",
+          "label": "Ore Sample Bag"
+        },
+        {
+          "file": "rock_hammer",
+          "label": "Rock Hammer"
+        },
+        {
+          "file": "mining_gloves",
+          "label": "Mining Gloves"
+        },
+        {
+          "file": "mining_boots",
+          "label": "Mining Boots"
+        },
+        {
+          "file": "timber_support_beam",
+          "label": "Support Beam"
+        },
+        {
+          "file": "ventilation_fan",
+          "label": "Ventilation Fan"
+        },
+        {
+          "file": "ore_crusher_hopper",
+          "label": "Ore Crusher Hopper"
+        }
+      ]
+    },
+    "fishing": {
+      "label": "Fishing",
+      "items": [
+        {
+          "file": "bluegill",
+          "label": "Bluegill"
+        },
+        {
+          "file": "bullhead_catfish",
+          "label": "Bullhead Catfish"
+        },
+        {
+          "file": "channel_catfish",
+          "label": "Channel Catfish"
+        },
+        {
+          "file": "blue_catfish",
+          "label": "Blue Catfish"
+        },
+        {
+          "file": "largemouth_bass",
+          "label": "Largemouth Bass"
+        },
+        {
+          "file": "smallmouth_bass",
+          "label": "Smallmouth Bass"
+        },
+        {
+          "file": "rock_bass",
+          "label": "Rock Bass"
+        },
+        {
+          "file": "rainbow_trout",
+          "label": "Rainbow Trout"
+        },
+        {
+          "file": "steelhead_trout",
+          "label": "Steelhead Trout"
+        },
+        {
+          "file": "lake_sturgeon",
+          "label": "Lake Sturgeon"
+        },
+        {
+          "file": "longnose_gar",
+          "label": "Longnose Gar"
+        },
+        {
+          "file": "northern_pike",
+          "label": "Northern Pike"
+        },
+        {
+          "file": "muskie",
+          "label": "Muskie"
+        },
+        {
+          "file": "chain_pickerel",
+          "label": "Chain Pickerel"
+        },
+        {
+          "file": "perch",
+          "label": "Perch"
+        },
+        {
+          "file": "salmon_sockeye",
+          "label": "Sockeye Salmon"
+        },
+        {
+          "file": "whitefish",
+          "label": "Whitefish"
+        },
+        {
+          "file": "carp",
+          "label": "Carp"
+        },
+        {
+          "file": "tuna",
+          "label": "Tuna"
+        },
+        {
+          "file": "mackerel",
+          "label": "Mackerel"
+        },
+        {
+          "file": "snapper",
+          "label": "Snapper"
+        },
+        {
+          "file": "grouper",
+          "label": "Grouper"
+        },
+        {
+          "file": "flounder",
+          "label": "Flounder"
+        },
+        {
+          "file": "herring",
+          "label": "Herring"
+        },
+        {
+          "file": "shad",
+          "label": "Shad"
+        },
+        {
+          "file": "eel",
+          "label": "Eel"
+        },
+        {
+          "file": "koi",
+          "label": "Koi"
+        },
+        {
+          "file": "piranha",
+          "label": "Piranha"
+        },
+        {
+          "file": "clownfish",
+          "label": "Clownfish"
+        },
+        {
+          "file": "swordfish",
+          "label": "Swordfish"
+        },
+        {
+          "file": "blue_crab",
+          "label": "Blue Crab"
+        },
+        {
+          "file": "lobster",
+          "label": "Lobster"
+        },
+        {
+          "file": "shrimp_raw",
+          "label": "Raw Shrimp"
+        },
+        {
+          "file": "oyster",
+          "label": "Oyster"
+        },
+        {
+          "file": "clam",
+          "label": "Clam"
+        },
+        {
+          "file": "mussel",
+          "label": "Mussel"
+        },
+        {
+          "file": "crawfish",
+          "label": "Crawfish"
+        },
+        {
+          "file": "squid",
+          "label": "Squid"
+        },
+        {
+          "file": "octopus",
+          "label": "Octopus"
+        },
+        {
+          "file": "sea_urchin",
+          "label": "Sea Urchin"
+        },
+        {
+          "file": "fishing_rod_basic",
+          "label": "Basic Fishing Rod"
+        },
+        {
+          "file": "fishing_rod_spinning",
+          "label": "Spinning Rod"
+        },
+        {
+          "file": "fishing_rod_baitcaster",
+          "label": "Baitcaster Rod"
+        },
+        {
+          "file": "fishing_rod_fly",
+          "label": "Fly Fishing Rod"
+        },
+        {
+          "file": "fishing_rod_telescopic",
+          "label": "Telescopic Rod"
+        },
+        {
+          "file": "fishing_rod_deep_sea",
+          "label": "Deep Sea Rod"
+        },
+        {
+          "file": "fishing_reel_spare",
+          "label": "Spare Fishing Reel"
+        },
+        {
+          "file": "fishing_line_spool",
+          "label": "Fishing Line"
+        },
+        {
+          "file": "braided_line_spool",
+          "label": "Braided Line"
+        },
+        {
+          "file": "tackle_box",
+          "label": "Tackle Box"
+        },
+        {
+          "file": "fish_hook_pack",
+          "label": "Fishing Hooks"
+        },
+        {
+          "file": "fishing_lure_spinner",
+          "label": "Spinner Lure"
+        },
+        {
+          "file": "fishing_lure_soft_plastic",
+          "label": "Soft Plastic Lure"
+        },
+        {
+          "file": "fishing_lure_popper",
+          "label": "Popper Lure"
+        },
+        {
+          "file": "bobber_float",
+          "label": "Bobber"
+        },
+        {
+          "file": "sinker_weights",
+          "label": "Sinker Weights"
+        },
+        {
+          "file": "fish_net_landing",
+          "label": "Landing Net"
+        },
+        {
+          "file": "fish_gaff",
+          "label": "Fish Gaff"
+        },
+        {
+          "file": "fish_stringer",
+          "label": "Fish Stringer"
+        },
+        {
+          "file": "fillet_knife",
+          "label": "Fillet Knife"
+        },
+        {
+          "file": "bait_worm",
+          "label": "Worm Bait"
+        },
+        {
+          "file": "bait_cricket",
+          "label": "Cricket Bait"
+        },
+        {
+          "file": "bait_corn",
+          "label": "Corn Bait"
+        },
+        {
+          "file": "bait_cheese",
+          "label": "Cheese Bait"
+        },
+        {
+          "file": "bait_bread",
+          "label": "Bread Bait"
+        },
+        {
+          "file": "bait_dough",
+          "label": "Dough Bait"
+        },
+        {
+          "file": "bait_minnow_bucket",
+          "label": "Minnow Bucket"
+        },
+        {
+          "file": "bait_shrimp_frozen",
+          "label": "Frozen Bait Shrimp"
+        },
+        {
+          "file": "fish_fillet",
+          "label": "Fish Fillet"
+        },
+        {
+          "file": "smoked_fish",
+          "label": "Smoked Fish"
+        },
+        {
+          "file": "dried_fish",
+          "label": "Dried Fish"
+        },
+        {
+          "file": "fish_scales_pile",
+          "label": "Fish Scales"
+        },
+        {
+          "file": "fish_roe_jar",
+          "label": "Fish Roe"
+        },
+        {
+          "file": "cooler_box_ice",
+          "label": "Cooler Box"
+        },
+        {
+          "file": "bucket_live_fish",
+          "label": "Bucket of Live Fish"
+        }
+      ]
+    },
+    "hunting": {
+      "label": "Hunting",
+      "items": [
+        {
+          "file": "rabbit_carcass",
+          "label": "Rabbit Carcass"
+        },
+        {
+          "file": "squirrel_carcass",
+          "label": "Squirrel Carcass"
+        },
+        {
+          "file": "duck_carcass",
+          "label": "Duck Carcass"
+        },
+        {
+          "file": "pheasant_carcass",
+          "label": "Pheasant Carcass"
+        },
+        {
+          "file": "wild_boar_carcass",
+          "label": "Boar Carcass"
+        },
+        {
+          "file": "deer_carcass",
+          "label": "Deer Carcass"
+        },
+        {
+          "file": "elk_carcass",
+          "label": "Elk Carcass"
+        },
+        {
+          "file": "fox_carcass",
+          "label": "Fox Carcass"
+        },
+        {
+          "file": "coyote_carcass",
+          "label": "Coyote Carcass"
+        },
+        {
+          "file": "wild_turkey_carcass",
+          "label": "Wild Turkey Carcass"
+        },
+        {
+          "file": "venison_cut",
+          "label": "Venison Cut"
+        },
+        {
+          "file": "boar_meat_cut",
+          "label": "Boar Meat"
+        },
+        {
+          "file": "rabbit_meat_cut",
+          "label": "Rabbit Meat"
+        },
+        {
+          "file": "game_bird_meat",
+          "label": "Game Bird Meat"
+        },
+        {
+          "file": "elk_meat_cut",
+          "label": "Elk Meat"
+        },
+        {
+          "file": "jerky_venison",
+          "label": "Venison Jerky"
+        },
+        {
+          "file": "smoked_game_meat",
+          "label": "Smoked Game Meat"
+        },
+        {
+          "file": "animal_fat_rendered",
+          "label": "Rendered Fat"
+        },
+        {
+          "file": "bone_marrow_raw",
+          "label": "Raw Bone Marrow"
+        },
+        {
+          "file": "offal_bundle",
+          "label": "Offal Bundle"
+        },
+        {
+          "file": "rabbit_pelt",
+          "label": "Rabbit Pelt"
+        },
+        {
+          "file": "squirrel_pelt",
+          "label": "Squirrel Pelt"
+        },
+        {
+          "file": "fox_pelt",
+          "label": "Fox Pelt"
+        },
+        {
+          "file": "coyote_pelt",
+          "label": "Coyote Pelt"
+        },
+        {
+          "file": "wolf_pelt",
+          "label": "Wolf Pelt"
+        },
+        {
+          "file": "bobcat_pelt",
+          "label": "Bobcat Pelt"
+        },
+        {
+          "file": "raccoon_pelt",
+          "label": "Raccoon Pelt"
+        },
+        {
+          "file": "beaver_pelt",
+          "label": "Beaver Pelt"
+        },
+        {
+          "file": "mink_pelt",
+          "label": "Mink Pelt"
+        },
+        {
+          "file": "skunk_pelt",
+          "label": "Skunk Pelt"
+        },
+        {
+          "file": "deer_hide",
+          "label": "Deer Hide"
+        },
+        {
+          "file": "elk_hide",
+          "label": "Elk Hide"
+        },
+        {
+          "file": "boar_hide",
+          "label": "Boar Hide"
+        },
+        {
+          "file": "bear_pelt",
+          "label": "Bear Pelt"
+        },
+        {
+          "file": "cow_hide",
+          "label": "Cow Hide"
+        },
+        {
+          "file": "sheep_hide",
+          "label": "Sheep Hide"
+        },
+        {
+          "file": "deer_antlers",
+          "label": "Deer Antlers"
+        },
+        {
+          "file": "elk_antlers",
+          "label": "Elk Antlers"
+        },
+        {
+          "file": "moose_antlers",
+          "label": "Moose Antlers"
+        },
+        {
+          "file": "boar_tusks",
+          "label": "Boar Tusks"
+        },
+        {
+          "file": "ram_horns",
+          "label": "Ram Horns"
+        },
+        {
+          "file": "bear_claw",
+          "label": "Bear Claw"
+        },
+        {
+          "file": "wolf_fang",
+          "label": "Wolf Fang"
+        },
+        {
+          "file": "buffalo_horn",
+          "label": "Buffalo Horn"
+        },
+        {
+          "file": "duck_feather",
+          "label": "Duck Feather"
+        },
+        {
+          "file": "pheasant_feather",
+          "label": "Pheasant Feather"
+        },
+        {
+          "file": "eagle_feather",
+          "label": "Eagle Feather"
+        },
+        {
+          "file": "crow_feather",
+          "label": "Crow Feather"
+        },
+        {
+          "file": "owl_feather",
+          "label": "Owl Feather"
+        },
+        {
+          "file": "turkey_feather",
+          "label": "Turkey Feather"
+        },
+        {
+          "file": "hawk_feather",
+          "label": "Hawk Feather"
+        },
+        {
+          "file": "peacock_feather",
+          "label": "Peacock Feather"
+        },
+        {
+          "file": "hunting_bow",
+          "label": "Hunting Bow"
+        },
+        {
+          "file": "compound_bow",
+          "label": "Compound Bow"
+        },
+        {
+          "file": "crossbow",
+          "label": "Crossbow"
+        },
+        {
+          "file": "arrow_broadhead",
+          "label": "Hunting Arrow"
+        },
+        {
+          "file": "arrow_quiver",
+          "label": "Arrow Quiver"
+        },
+        {
+          "file": "bolt_crossbow",
+          "label": "Crossbow Bolt"
+        },
+        {
+          "file": "hunting_knife",
+          "label": "Hunting Knife"
+        },
+        {
+          "file": "skinning_knife",
+          "label": "Skinning Knife"
+        },
+        {
+          "file": "game_call_duck",
+          "label": "Duck Call"
+        },
+        {
+          "file": "game_call_elk",
+          "label": "Elk Call"
+        },
+        {
+          "file": "game_call_predator",
+          "label": "Predator Call"
+        },
+        {
+          "file": "animal_trap_leghold",
+          "label": "Leghold Trap"
+        },
+        {
+          "file": "snare_wire",
+          "label": "Snare Wire"
+        },
+        {
+          "file": "cage_trap",
+          "label": "Cage Trap"
+        },
+        {
+          "file": "scent_lure_bottle",
+          "label": "Scent Lure"
+        },
+        {
+          "file": "ghillie_suit",
+          "label": "Ghillie Suit"
+        },
+        {
+          "file": "camo_jacket",
+          "label": "Camo Jacket"
+        },
+        {
+          "file": "hunting_vest_blaze",
+          "label": "Blaze Vest"
+        },
+        {
+          "file": "tree_stand",
+          "label": "Tree Stand"
+        },
+        {
+          "file": "deer_blind",
+          "label": "Hunting Blind"
+        },
+        {
+          "file": "laser_rangefinder",
+          "label": "Laser Rangefinder"
+        },
+        {
+          "file": "salt_lick_block",
+          "label": "Salt Lick"
+        },
+        {
+          "file": "bone_saw",
+          "label": "Bone Saw"
+        }
+      ]
+    },
+    "valuables": {
+      "label": "Valuables",
+      "items": [
+        {
+          "file": "cash",
+          "label": "Cash"
+        },
+        {
+          "file": "cash_stack",
+          "label": "Stack of Cash"
+        },
+        {
+          "file": "cash_roll",
+          "label": "Roll of Cash"
+        },
+        {
+          "file": "moneybag",
+          "label": "Money Bag"
+        },
+        {
+          "file": "goldbar",
+          "label": "Gold Bar"
+        },
+        {
+          "file": "gold_coin",
+          "label": "Gold Coin"
+        },
+        {
+          "file": "goldchain",
+          "label": "Gold Chain"
+        },
+        {
+          "file": "tenkgoldchain",
+          "label": "10k Gold Chain"
+        },
+        {
+          "file": "diamond",
+          "label": "Diamond"
+        },
+        {
+          "file": "diamond_ring",
+          "label": "Diamond Ring"
+        },
+        {
+          "file": "golden_watch",
+          "label": "Golden Watch"
+        },
+        {
+          "file": "gold_earrings",
+          "label": "Gold Earrings"
+        },
+        {
+          "file": "pearl_necklace",
+          "label": "Pearl Necklace"
+        },
+        {
+          "file": "casinochips",
+          "label": "Casino Chips"
+        },
+        {
+          "file": "silver_bar",
+          "label": "Silver Bar"
+        },
+        {
+          "file": "crypto_ledger",
+          "label": "Crypto Ledger"
+        },
+        {
+          "file": "platinum_bar",
+          "label": "Platinum Bar"
+        },
+        {
+          "file": "silver_coin",
+          "label": "Silver Coin"
+        },
+        {
+          "file": "ruby_ring",
+          "label": "Ruby Ring"
+        },
+        {
+          "file": "emerald_necklace",
+          "label": "Emerald Necklace"
+        },
+        {
+          "file": "sapphire_bracelet",
+          "label": "Sapphire Bracelet"
+        },
+        {
+          "file": "tiara_jeweled",
+          "label": "Jeweled Tiara"
+        },
+        {
+          "file": "antique_vase",
+          "label": "Antique Vase"
+        },
+        {
+          "file": "gold_statue_small",
+          "label": "Gold Statuette"
+        },
+        {
+          "file": "painting_rolled",
+          "label": "Rolled Painting"
+        },
+        {
+          "file": "rare_stamp_album",
+          "label": "Stamp Album"
+        },
+        {
+          "file": "pocket_watch_antique",
+          "label": "Antique Pocket Watch"
+        },
+        {
+          "file": "jade_figurine",
+          "label": "Jade Figurine"
+        },
+        {
+          "file": "rare_coin_collection",
+          "label": "Coin Collection"
+        },
+        {
+          "file": "gold_bullion_stack",
+          "label": "Gold Bullion Stack"
+        },
+        {
+          "file": "diamond_tennis_bracelet",
+          "label": "Diamond Bracelet"
+        }
+      ]
+    },
+    "misc": {
+      "label": "Misc",
+      "items": [
+        {
+          "file": "diving_gear",
+          "label": "Diving Gear"
+        },
+        {
+          "file": "umbrella",
+          "label": "Umbrella"
+        },
+        {
+          "file": "firework",
+          "label": "Firework"
+        },
+        {
+          "file": "wallet",
+          "label": "Wallet"
+        },
+        {
+          "file": "keyring",
+          "label": "Keyring"
+        },
+        {
+          "file": "rubber_gloves",
+          "label": "Rubber Gloves"
+        },
+        {
+          "file": "rain_poncho",
+          "label": "Rain Poncho"
+        },
+        {
+          "file": "sleeping_bag",
+          "label": "Sleeping Bag"
+        },
+        {
+          "file": "tent_pack",
+          "label": "Tent Pack"
+        },
+        {
+          "file": "camping_lantern",
+          "label": "Camping Lantern"
+        },
+        {
+          "file": "compass",
+          "label": "Compass"
+        },
+        {
+          "file": "whistle",
+          "label": "Whistle"
+        },
+        {
+          "file": "coin_purse",
+          "label": "Coin Purse"
+        },
+        {
+          "file": "pocket_multitool",
+          "label": "Multitool"
+        },
+        {
+          "file": "photo_album",
+          "label": "Photo Album"
+        },
+        {
+          "file": "parachute",
+          "label": "Parachute"
+        },
+        {
+          "file": "shopping_bag",
+          "label": "Shopping Bag"
+        },
+        {
+          "file": "cardboard_box",
+          "label": "Cardboard Box"
+        },
+        {
+          "file": "mason_jar_empty",
+          "label": "Empty Mason Jar"
+        },
+        {
+          "file": "tin_can_empty",
+          "label": "Empty Tin Can"
+        },
+        {
+          "file": "evidence_bag_small",
+          "label": "Small Pouch"
+        }
+      ]
+    }
+  }
+}
